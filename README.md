@@ -23,6 +23,8 @@ bash installers/install-codex.sh
 
 Os instaladores de Claude Code e OpenCode criam links simbólicos e preservam skills já existentes. Para Codex em equipe, importe o marketplace `.agents/plugins/marketplace.json` no painel administrativo; o instalador Codex é destinado a uma instalação local de teste.
 
+Em Windows, use os equivalentes PowerShell `.ps1` em `installers/`; veja as instruções específicas em `installers/README.md`.
+
 ## Fluxo recomendado
 
 1. Inicie pelo `orquestrador-juridico-geral`.
