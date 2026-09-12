@@ -9,6 +9,19 @@ Base local de skills jurídicas brasileiras organizada para uso em escritórios 
 - `catalogo-skills.tsv`: índice gerado para descoberta e auditoria.
 - `governanca/`: política de uso, esquema de metadados e cenários de regressão.
 - `plugins/advocacia-multi-area/`: plugin local pronto para validação/instalação.
+- `installers/`: instaladores idempotentes para Claude Code, OpenCode e Codex.
+
+## Instalação rápida
+
+Depois de clonar o repositório, execute o instalador da plataforma desejada:
+
+```sh
+bash installers/install-claude.sh
+bash installers/install-opencode.sh
+bash installers/install-codex.sh
+```
+
+Os instaladores de Claude Code e OpenCode criam links simbólicos e preservam skills já existentes. Para Codex em equipe, importe o marketplace `.agents/plugins/marketplace.json` no painel administrativo; o instalador Codex é destinado a uma instalação local de teste.
 
 ## Fluxo recomendado
 
