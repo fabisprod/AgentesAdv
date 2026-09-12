@@ -1,0 +1,4 @@
+interface:
+  display_name: "Destitui\u00E7\u00E3o do Poder Familiar"
+  short_description: "Skill jur\u00EDdica: Destitui\u00E7\u00E3o do Poder Familiar"
+  default_prompt: "Use $familia-destituicao-do-poder-familiar para preparar Destitui\u00E7\u00E3o do Poder Familiar com os dados do caso."

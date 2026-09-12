@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exceções Processuais (CPP, arts. 95-112)"
+  short_description: "Skill jurídica: Exceções Processuais (CPP, arts. 95-112)"
+  default_prompt: "Use $excecoes-processuais para preparar Exceções Processuais (CPP, arts. 95-112) com os dados do caso."

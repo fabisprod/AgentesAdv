@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requerimento para Instauração de Investigação"
+  short_description: "Skill jurídica: Requerimento para Instauração de Investigação"
+  default_prompt: "Use $requerimento-para-instauracao-de-investigacao para preparar Requerimento para Instauração de Investigação com os dados do caso."

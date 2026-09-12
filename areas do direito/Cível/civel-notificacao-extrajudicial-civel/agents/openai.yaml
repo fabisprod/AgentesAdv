@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notifica\u00E7\u00E3o Extrajudicial C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: Notifica\u00E7\u00E3o Extrajudicial C\u00EDvel"
+  default_prompt: "Use $civel-notificacao-extrajudicial-civel para preparar Notifica\u00E7\u00E3o Extrajudicial C\u00EDvel com os dados do caso."

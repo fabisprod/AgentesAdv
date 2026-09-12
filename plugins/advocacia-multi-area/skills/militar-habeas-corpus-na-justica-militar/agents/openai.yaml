@@ -1,0 +1,4 @@
+interface:
+  display_name: "Habeas Corpus na Justi\u00E7a Militar"
+  short_description: "Skill jur\u00EDdica: Habeas Corpus na Justi\u00E7a Militar"
+  default_prompt: "Use $militar-habeas-corpus-na-justica-militar para preparar Habeas Corpus na Justi\u00E7a Militar com os dados do caso."

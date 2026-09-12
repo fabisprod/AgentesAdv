@@ -1,0 +1,4 @@
+interface:
+  display_name: "R\u00E9plica \u00E0 Contesta\u00E7\u00E3o C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: R\u00E9plica \u00E0 Contesta\u00E7\u00E3o C\u00EDvel"
+  default_prompt: "Use $civel-replica-a-contestacao-civel para preparar R\u00E9plica \u00E0 Contesta\u00E7\u00E3o C\u00EDvel com os dados do caso."

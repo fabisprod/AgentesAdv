@@ -1,0 +1,4 @@
+interface:
+  display_name: "Colaboração Premiada (Lei 12.850/2013, arts. 3º-A a 7º)"
+  short_description: "Skill jurídica: Colaboração Premiada (Lei 12.850/2013, arts. 3º-"
+  default_prompt: "Use $colaboracao-premiada para preparar Colaboração Premiada (Lei 12.850/2013, arts. 3º-A a 7º) com os dados do caso."

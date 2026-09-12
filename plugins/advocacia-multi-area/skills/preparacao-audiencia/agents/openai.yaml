@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preparação de Audiência"
+  short_description: "Skill jurídica: Preparação de Audiência"
+  default_prompt: "Use $preparacao-audiencia para preparar Preparação de Audiência com os dados do caso."

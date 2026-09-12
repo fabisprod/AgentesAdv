@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Rescis\u00F3ria Trabalhista"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Rescis\u00F3ria Trabalhista"
+  default_prompt: "Use $trabalhista-acao-rescisoria-trabalhista para preparar A\u00E7\u00E3o Rescis\u00F3ria Trabalhista com os dados do caso."

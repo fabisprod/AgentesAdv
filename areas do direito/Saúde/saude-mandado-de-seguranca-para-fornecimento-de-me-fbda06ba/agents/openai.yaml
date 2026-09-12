@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a para Fornecimento de Medicamento pelo SUS"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a para Fornecimento de Medica"
+  default_prompt: "Use $saude-mandado-de-seguranca-para-fornecimento-de-me-fbda06ba para preparar Mandado de Seguran\u00E7a para Fornecimento de Medicamento pelo SUS com os dados do caso."

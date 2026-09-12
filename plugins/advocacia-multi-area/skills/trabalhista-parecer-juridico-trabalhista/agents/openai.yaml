@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer Jur\u00EDdico Trabalhista"
+  short_description: "Skill jur\u00EDdica: Parecer Jur\u00EDdico Trabalhista"
+  default_prompt: "Use $trabalhista-parecer-juridico-trabalhista para preparar Parecer Jur\u00EDdico Trabalhista com os dados do caso."

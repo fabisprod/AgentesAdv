@@ -1,0 +1,4 @@
+interface:
+  display_name: "An\u00E1lise de Reclamat\u00F3ria Recebida"
+  short_description: "Skill jur\u00EDdica: An\u00E1lise de Reclamat\u00F3ria Recebida"
+  default_prompt: "Use $trabalhista-analise-de-reclamatoria-recebida para preparar An\u00E1lise de Reclamat\u00F3ria Recebida com os dados do caso."

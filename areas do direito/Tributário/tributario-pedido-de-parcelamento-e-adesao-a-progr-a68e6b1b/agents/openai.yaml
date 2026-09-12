@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pedido de Parcelamento e Ades\u00E3o a Programas de Refinanciamento (REFIS/PERT/Outros)"
+  short_description: "Skill jur\u00EDdica: Pedido de Parcelamento e Ades\u00E3o a Programas de R"
+  default_prompt: "Use $tributario-pedido-de-parcelamento-e-adesao-a-progr-a68e6b1b para preparar Pedido de Parcelamento e Ades\u00E3o a Programas de Refinanciamento (REFIS/PERT/Outros) com os dados do caso."

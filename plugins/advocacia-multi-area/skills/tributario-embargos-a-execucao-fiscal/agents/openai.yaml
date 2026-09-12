@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos \u00E0 Execu\u00E7\u00E3o Fiscal"
+  short_description: "Skill jur\u00EDdica: Embargos \u00E0 Execu\u00E7\u00E3o Fiscal"
+  default_prompt: "Use $tributario-embargos-a-execucao-fiscal para preparar Embargos \u00E0 Execu\u00E7\u00E3o Fiscal com os dados do caso."

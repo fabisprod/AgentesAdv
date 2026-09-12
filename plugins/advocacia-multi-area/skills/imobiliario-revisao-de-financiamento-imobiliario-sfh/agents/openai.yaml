@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revis\u00E3o de Financiamento Imobili\u00E1rio (SFH)"
+  short_description: "Skill jur\u00EDdica: Revis\u00E3o de Financiamento Imobili\u00E1rio (SFH)"
+  default_prompt: "Use $imobiliario-revisao-de-financiamento-imobiliario-sfh para preparar Revis\u00E3o de Financiamento Imobili\u00E1rio (SFH) com os dados do caso."

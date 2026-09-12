@@ -1,0 +1,4 @@
+interface:
+  display_name: "Matriz de Contradições da Prova Oral (mapear → classificar → converter em peça)"
+  short_description: "Skill jurídica: Matriz de Contradições da Prova Oral (mapear → c"
+  default_prompt: "Use $matriz-contradicoes-prova-oral para preparar Matriz de Contradições da Prova Oral (mapear → classificar → converter em peça) com os dados do caso."

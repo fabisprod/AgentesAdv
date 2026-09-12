@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Processo de Justa Causa"
+  short_description: "Skill jur\u00EDdica: Defesa em Processo de Justa Causa"
+  default_prompt: "Use $trabalhista-defesa-em-processo-de-justa-causa para preparar Defesa em Processo de Justa Causa com os dados do caso."

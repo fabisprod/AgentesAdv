@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Compra e Venda Empresarial"
+  short_description: "Skill jur\u00EDdica: Contrato de Compra e Venda Empresarial"
+  default_prompt: "Use $contratos-contrato-de-compra-e-venda-empresarial para preparar Contrato de Compra e Venda Empresarial com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saída Temporária (e Trabalho Externo)"
+  short_description: "Skill jurídica: Saída Temporária (e Trabalho Externo)"
+  default_prompt: "Use $execucao-saida-temporaria para preparar Saída Temporária (e Trabalho Externo) com os dados do caso."

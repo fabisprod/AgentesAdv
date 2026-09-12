@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modifica\u00E7\u00E3o de Guarda e Alimentos"
+  short_description: "Skill jur\u00EDdica: Modifica\u00E7\u00E3o de Guarda e Alimentos"
+  default_prompt: "Use $familia-modificacao-de-guarda-e-alimentos para preparar Modifica\u00E7\u00E3o de Guarda e Alimentos com os dados do caso."

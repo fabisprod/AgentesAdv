@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unificação de Penas (soma na execução)"
+  short_description: "Skill jurídica: Unificação de Penas (soma na execução)"
+  default_prompt: "Use $execucao-unificacao-penas para preparar Unificação de Penas (soma na execução) com os dados do caso."

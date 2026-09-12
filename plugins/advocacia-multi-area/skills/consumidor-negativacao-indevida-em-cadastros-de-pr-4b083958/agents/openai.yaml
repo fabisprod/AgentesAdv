@@ -1,0 +1,4 @@
+interface:
+  display_name: "Negativa\u00E7\u00E3o Indevida em Cadastros de Prote\u00E7\u00E3o ao Cr\u00E9dito"
+  short_description: "Skill jur\u00EDdica: Negativa\u00E7\u00E3o Indevida em Cadastros de Prote\u00E7\u00E3o ao"
+  default_prompt: "Use $consumidor-negativacao-indevida-em-cadastros-de-pr-4b083958 para preparar Negativa\u00E7\u00E3o Indevida em Cadastros de Prote\u00E7\u00E3o ao Cr\u00E9dito com os dados do caso."

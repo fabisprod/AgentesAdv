@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugnação de Infiltração de Agentes e Ação Controlada (meios especiais de obtenção de prova)"
+  short_description: "Skill jurídica: Impugnação de Infiltração de Agentes e Ação Cont"
+  default_prompt: "Use $impugnacao-infiltracao-acao-controlada para preparar Impugnação de Infiltração de Agentes e Ação Controlada (meios especiais de obtenção de prova) com os dados do caso."

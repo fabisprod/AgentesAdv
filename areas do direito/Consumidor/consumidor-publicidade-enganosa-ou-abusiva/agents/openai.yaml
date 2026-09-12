@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publicidade Enganosa ou Abusiva"
+  short_description: "Skill jur\u00EDdica: Publicidade Enganosa ou Abusiva"
+  default_prompt: "Use $consumidor-publicidade-enganosa-ou-abusiva para preparar Publicidade Enganosa ou Abusiva com os dados do caso."

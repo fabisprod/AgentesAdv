@@ -1,0 +1,4 @@
+interface:
+  display_name: "R\u00E9plica Trabalhista"
+  short_description: "Skill jur\u00EDdica: R\u00E9plica Trabalhista"
+  default_prompt: "Use $trabalhista-replica-trabalhista para preparar R\u00E9plica Trabalhista com os dados do caso."

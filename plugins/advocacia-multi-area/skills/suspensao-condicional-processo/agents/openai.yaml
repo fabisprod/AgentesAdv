@@ -1,0 +1,4 @@
+interface:
+  display_name: "Suspensão Condicional do Processo (sursis processual — art. 89 da Lei 9.099/95)"
+  short_description: "Skill jurídica: Suspensão Condicional do Processo (sursis proces"
+  default_prompt: "Use $suspensao-condicional-processo para preparar Suspensão Condicional do Processo (sursis processual — art. 89 da Lei 9.099/95) com os dados do caso."

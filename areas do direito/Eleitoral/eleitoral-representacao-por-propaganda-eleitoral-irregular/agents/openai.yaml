@@ -1,0 +1,4 @@
+interface:
+  display_name: "Representa\u00E7\u00E3o por Propaganda Eleitoral Irregular"
+  short_description: "Skill jur\u00EDdica: Representa\u00E7\u00E3o por Propaganda Eleitoral Irregular"
+  default_prompt: "Use $eleitoral-representacao-por-propaganda-eleitoral-irregular para preparar Representa\u00E7\u00E3o por Propaganda Eleitoral Irregular com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Termo de Responsabilidade"
+  short_description: "Skill jur\u00EDdica: Termo de Responsabilidade"
+  default_prompt: "Use $contratos-termo-de-responsabilidade para preparar Termo de Responsabilidade com os dados do caso."

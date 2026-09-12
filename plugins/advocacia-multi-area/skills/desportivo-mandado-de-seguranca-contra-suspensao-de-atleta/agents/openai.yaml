@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a contra Suspens\u00E3o de Atleta"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a contra Suspens\u00E3o de Atleta"
+  default_prompt: "Use $desportivo-mandado-de-seguranca-contra-suspensao-de-atleta para preparar Mandado de Seguran\u00E7a contra Suspens\u00E3o de Atleta com os dados do caso."

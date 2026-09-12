@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revis\u00E3o de Enquadramento Previdenci\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Revis\u00E3o de Enquadramento Previdenci\u00E1rio"
+  default_prompt: "Use $previdenciario-revisao-de-enquadramento-previdenciario para preparar Revis\u00E3o de Enquadramento Previdenci\u00E1rio com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Registro de Candidatura"
+  short_description: "Skill jur\u00EDdica: Registro de Candidatura"
+  default_prompt: "Use $eleitoral-registro-de-candidatura para preparar Registro de Candidatura com os dados do caso."

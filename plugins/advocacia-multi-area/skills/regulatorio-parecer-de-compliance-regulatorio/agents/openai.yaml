@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer de Compliance Regulat\u00F3rio"
+  short_description: "Skill jur\u00EDdica: Parecer de Compliance Regulat\u00F3rio"
+  default_prompt: "Use $regulatorio-parecer-de-compliance-regulatorio para preparar Parecer de Compliance Regulat\u00F3rio com os dados do caso."

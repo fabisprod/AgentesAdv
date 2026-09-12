@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo Interno"
+  short_description: "Skill jur\u00EDdica: Agravo Interno"
+  default_prompt: "Use $civel-agravo-interno para preparar Agravo Interno com os dados do caso."

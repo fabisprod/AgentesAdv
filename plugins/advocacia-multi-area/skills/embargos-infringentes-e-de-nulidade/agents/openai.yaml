@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos Infringentes e de Nulidade"
+  short_description: "Skill jurídica: Embargos Infringentes e de Nulidade"
+  default_prompt: "Use $embargos-infringentes-e-de-nulidade para preparar Embargos Infringentes e de Nulidade com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Progressão de Regime (execução penal)"
+  short_description: "Skill jurídica: Progressão de Regime (execução penal)"
+  default_prompt: "Use $execucao-progressao-regime para preparar Progressão de Regime (execução penal) com os dados do caso."

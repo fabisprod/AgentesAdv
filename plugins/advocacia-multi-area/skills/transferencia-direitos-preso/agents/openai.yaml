@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transferência e Direitos do Preso (execução penal)"
+  short_description: "Skill jurídica: Transferência e Direitos do Preso (execução pena"
+  default_prompt: "Use $transferencia-direitos-preso para preparar Transferência e Direitos do Preso (execução penal) com os dados do caso."

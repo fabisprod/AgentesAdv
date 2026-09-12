@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tutela Antecipada"
+  short_description: "Skill jur\u00EDdica: Tutela Antecipada"
+  default_prompt: "Use $civel-tutela-antecipada para preparar Tutela Antecipada com os dados do caso."

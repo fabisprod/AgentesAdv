@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugnação da Quebra de Cadeia de Custódia (prova física e digital)"
+  short_description: "Skill jurídica: Impugnação da Quebra de Cadeia de Custódia (prov"
+  default_prompt: "Use $impugnacao-cadeia-custodia para preparar Impugnação da Quebra de Cadeia de Custódia (prova física e digital) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "An\u00E1lise e Auditoria de Contrato"
+  short_description: "Skill jur\u00EDdica: An\u00E1lise e Auditoria de Contrato"
+  default_prompt: "Use $contratos-analise-e-auditoria-de-contrato para preparar An\u00E1lise e Auditoria de Contrato com os dados do caso."

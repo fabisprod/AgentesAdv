@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Processo Administrativo Ambiental (SISNAMA)"
+  short_description: "Skill jur\u00EDdica: Defesa em Processo Administrativo Ambiental (SIS"
+  default_prompt: "Use $ambiental-defesa-em-processo-administrativo-ambiental-sisnama para preparar Defesa em Processo Administrativo Ambiental (SISNAMA) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testamento"
+  short_description: "Skill jur\u00EDdica: Testamento"
+  default_prompt: "Use $familia-testamento para preparar Testamento com os dados do caso."

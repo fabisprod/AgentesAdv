@@ -1,0 +1,4 @@
+interface:
+  display_name: "Júri — Alegações Finais da Defesa (1ª Fase / Fase de Pronúncia)"
+  short_description: "Skill jurídica: Júri — Alegações Finais da Defesa (1ª Fase / Fas"
+  default_prompt: "Use $juri-pronuncia-defesa para preparar Júri — Alegações Finais da Defesa (1ª Fase / Fase de Pronúncia) com os dados do caso."

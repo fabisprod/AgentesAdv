@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Processo Administrativo Sancionador da ANS"
+  short_description: "Skill jur\u00EDdica: Defesa em Processo Administrativo Sancionador da"
+  default_prompt: "Use $regulatorio-defesa-em-processo-administrativo-sanc-c0612dd5 para preparar Defesa em Processo Administrativo Sancionador da ANS com os dados do caso."

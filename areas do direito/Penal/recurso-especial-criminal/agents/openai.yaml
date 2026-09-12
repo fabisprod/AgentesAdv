@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Especial Criminal (REsp — STJ)"
+  short_description: "Skill jurídica: Recurso Especial Criminal (REsp — STJ)"
+  default_prompt: "Use $recurso-especial-criminal para preparar Recurso Especial Criminal (REsp — STJ) com os dados do caso."

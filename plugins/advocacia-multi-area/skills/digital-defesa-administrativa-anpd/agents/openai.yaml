@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa Administrativa ANPD"
+  short_description: "Skill jur\u00EDdica: Defesa Administrativa ANPD"
+  default_prompt: "Use $digital-defesa-administrativa-anpd para preparar Defesa Administrativa ANPD com os dados do caso."

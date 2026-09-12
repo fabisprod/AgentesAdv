@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Reembolso de Passagem (Recusa Indevida de Reembolso)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Reembolso de Passagem (Recusa Indevida d"
+  default_prompt: "Use $aeronautico-acao-de-reembolso-de-passagem-recusa-i-44c4f2d4 para preparar A\u00E7\u00E3o de Reembolso de Passagem (Recusa Indevida de Reembolso) com os dados do caso."

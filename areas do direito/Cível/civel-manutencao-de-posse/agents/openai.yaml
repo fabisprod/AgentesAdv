@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuten\u00E7\u00E3o de Posse"
+  short_description: "Skill jur\u00EDdica: Manuten\u00E7\u00E3o de Posse"
+  default_prompt: "Use $civel-manutencao-de-posse para preparar Manuten\u00E7\u00E3o de Posse com os dados do caso."

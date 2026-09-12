@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consigna\u00E7\u00E3o e Purga\u00E7\u00E3o da Mora"
+  short_description: "Skill jur\u00EDdica: Consigna\u00E7\u00E3o e Purga\u00E7\u00E3o da Mora"
+  default_prompt: "Use $bancario-consignacao-e-purgacao-da-mora para preparar Consigna\u00E7\u00E3o e Purga\u00E7\u00E3o da Mora com os dados do caso."

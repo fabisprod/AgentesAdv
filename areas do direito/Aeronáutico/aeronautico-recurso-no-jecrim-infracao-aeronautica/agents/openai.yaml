@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso no JECrim \u2014 Infra\u00E7\u00E3o Aeron\u00E1utica"
+  short_description: "Skill jur\u00EDdica: Recurso no JECrim \u2014 Infra\u00E7\u00E3o Aeron\u00E1utica"
+  default_prompt: "Use $aeronautico-recurso-no-jecrim-infracao-aeronautica para preparar Recurso no JECrim \u2014 Infra\u00E7\u00E3o Aeron\u00E1utica com os dados do caso."

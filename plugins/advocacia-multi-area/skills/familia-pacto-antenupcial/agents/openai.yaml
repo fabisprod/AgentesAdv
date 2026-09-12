@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pacto Antenupcial"
+  short_description: "Skill jur\u00EDdica: Pacto Antenupcial"
+  default_prompt: "Use $familia-pacto-antenupcial para preparar Pacto Antenupcial com os dados do caso."

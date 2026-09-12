@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em A\u00E7\u00E3o de Improbidade Administrativa"
+  short_description: "Skill jur\u00EDdica: Defesa em A\u00E7\u00E3o de Improbidade Administrativa"
+  default_prompt: "Use $administrativo-defesa-em-acao-de-improbidade-administrativa para preparar Defesa em A\u00E7\u00E3o de Improbidade Administrativa com os dados do caso."

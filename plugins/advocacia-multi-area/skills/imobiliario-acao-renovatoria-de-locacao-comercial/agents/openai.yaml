@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Renovat\u00F3ria de Loca\u00E7\u00E3o Comercial"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Renovat\u00F3ria de Loca\u00E7\u00E3o Comercial"
+  default_prompt: "Use $imobiliario-acao-renovatoria-de-locacao-comercial para preparar A\u00E7\u00E3o Renovat\u00F3ria de Loca\u00E7\u00E3o Comercial com os dados do caso."

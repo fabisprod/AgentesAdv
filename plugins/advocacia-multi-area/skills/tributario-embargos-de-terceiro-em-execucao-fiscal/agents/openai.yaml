@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos de Terceiro em Execu\u00E7\u00E3o Fiscal"
+  short_description: "Skill jur\u00EDdica: Embargos de Terceiro em Execu\u00E7\u00E3o Fiscal"
+  default_prompt: "Use $tributario-embargos-de-terceiro-em-execucao-fiscal para preparar Embargos de Terceiro em Execu\u00E7\u00E3o Fiscal com os dados do caso."

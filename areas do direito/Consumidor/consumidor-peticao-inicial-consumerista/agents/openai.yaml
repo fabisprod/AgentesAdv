@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peti\u00E7\u00E3o Inicial Consumerista"
+  short_description: "Skill jur\u00EDdica: Peti\u00E7\u00E3o Inicial Consumerista"
+  default_prompt: "Use $consumidor-peticao-inicial-consumerista para preparar Peti\u00E7\u00E3o Inicial Consumerista com os dados do caso."

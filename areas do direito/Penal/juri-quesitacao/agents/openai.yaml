@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quesitação do Tribunal do Júri (arts. 482-491 CPP)"
+  short_description: "Skill jurídica: Quesitação do Tribunal do Júri (arts. 482-491 CP"
+  default_prompt: "Use $juri-quesitacao para preparar Quesitação do Tribunal do Júri (arts. 482-491 CPP) com os dados do caso."

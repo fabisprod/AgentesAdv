@@ -1,0 +1,4 @@
+interface:
+  display_name: "Execu\u00E7\u00E3o de T\u00EDtulo Extrajudicial"
+  short_description: "Skill jur\u00EDdica: Execu\u00E7\u00E3o de T\u00EDtulo Extrajudicial"
+  default_prompt: "Use $civel-execucao-de-titulo-extrajudicial para preparar Execu\u00E7\u00E3o de T\u00EDtulo Extrajudicial com os dados do caso."

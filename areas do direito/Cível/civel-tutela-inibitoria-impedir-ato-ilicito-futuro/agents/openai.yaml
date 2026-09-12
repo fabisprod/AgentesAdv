@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tutela Inibit\u00F3ria \u2014 Impedir Ato Il\u00EDcito Futuro"
+  short_description: "Skill jur\u00EDdica: Tutela Inibit\u00F3ria \u2014 Impedir Ato Il\u00EDcito Futuro"
+  default_prompt: "Use $civel-tutela-inibitoria-impedir-ato-ilicito-futuro para preparar Tutela Inibit\u00F3ria \u2014 Impedir Ato Il\u00EDcito Futuro com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apelação"
+  short_description: "Skill jurídica: Apelação"
+  default_prompt: "Use $apelacao para preparar Apelação com os dados do caso."

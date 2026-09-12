@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Crime Ambiental"
+  short_description: "Skill jur\u00EDdica: Defesa em Crime Ambiental"
+  default_prompt: "Use $ambiental-defesa-em-crime-ambiental para preparar Defesa em Crime Ambiental com os dados do caso."

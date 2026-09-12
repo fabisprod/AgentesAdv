@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homologa\u00E7\u00E3o de Senten\u00E7a Estrangeira"
+  short_description: "Skill jur\u00EDdica: Homologa\u00E7\u00E3o de Senten\u00E7a Estrangeira"
+  default_prompt: "Use $internacional-homologacao-de-sentenca-estrangeira para preparar Homologa\u00E7\u00E3o de Senten\u00E7a Estrangeira com os dados do caso."

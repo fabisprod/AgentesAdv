@@ -1,0 +1,4 @@
+interface:
+  display_name: "Invent\u00E1rio de Im\u00F3vel Rural"
+  short_description: "Skill jur\u00EDdica: Invent\u00E1rio de Im\u00F3vel Rural"
+  default_prompt: "Use $agrario-inventario-de-imovel-rural para preparar Invent\u00E1rio de Im\u00F3vel Rural com os dados do caso."

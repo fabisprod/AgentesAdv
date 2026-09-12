@@ -1,0 +1,4 @@
+interface:
+  display_name: "Execução de medida socioeducativa (SINASE)"
+  short_description: "Skill jurídica: Execução de medida socioeducativa (SINASE)"
+  default_prompt: "Use $eca-execucao-medida-socioeducativa para preparar Execução de medida socioeducativa (SINASE) com os dados do caso."

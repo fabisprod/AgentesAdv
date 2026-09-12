@@ -1,0 +1,4 @@
+interface:
+  display_name: "Habilita\u00E7\u00E3o de Cr\u00E9dito Judicial Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Habilita\u00E7\u00E3o de Cr\u00E9dito Judicial Tribut\u00E1rio"
+  default_prompt: "Use $tributario-habilitacao-de-credito-judicial-tributario para preparar Habilita\u00E7\u00E3o de Cr\u00E9dito Judicial Tribut\u00E1rio com os dados do caso."

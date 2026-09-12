@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contesta\u00E7\u00E3o C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: Contesta\u00E7\u00E3o C\u00EDvel"
+  default_prompt: "Use $civel-contestacao-civel para preparar Contesta\u00E7\u00E3o C\u00EDvel com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugna\u00E7\u00E3o \u00E0 Liquida\u00E7\u00E3o de Senten\u00E7a"
+  short_description: "Skill jur\u00EDdica: Impugna\u00E7\u00E3o \u00E0 Liquida\u00E7\u00E3o de Senten\u00E7a"
+  default_prompt: "Use $trabalhista-impugnacao-a-liquidacao-de-sentenca para preparar Impugna\u00E7\u00E3o \u00E0 Liquida\u00E7\u00E3o de Senten\u00E7a com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Produção Antecipada de Provas (CPP, arts. 156, I, 225 e 366 — Súmula 455 STJ)"
+  short_description: "Skill jurídica: Produção Antecipada de Provas (CPP, arts. 156, I"
+  default_prompt: "Use $producao-antecipada-provas para preparar Produção Antecipada de Provas (CPP, arts. 156, I, 225 e 366 — Súmula 455 STJ) com os dados do caso."

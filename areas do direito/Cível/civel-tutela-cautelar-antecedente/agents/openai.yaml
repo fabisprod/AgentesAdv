@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tutela Cautelar Antecedente"
+  short_description: "Skill jur\u00EDdica: Tutela Cautelar Antecedente"
+  default_prompt: "Use $civel-tutela-cautelar-antecedente para preparar Tutela Cautelar Antecedente com os dados do caso."

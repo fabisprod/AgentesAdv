@@ -1,0 +1,4 @@
+interface:
+  display_name: "Habeas Corpus (HC)"
+  short_description: "Skill jurídica: Habeas Corpus (HC)"
+  default_prompt: "Use $habeas-corpus para preparar Habeas Corpus (HC) com os dados do caso."

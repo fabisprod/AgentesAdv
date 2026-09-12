@@ -1,0 +1,4 @@
+interface:
+  display_name: "Habilita\u00E7\u00E3o de Cr\u00E9dito"
+  short_description: "Skill jur\u00EDdica: Habilita\u00E7\u00E3o de Cr\u00E9dito"
+  default_prompt: "Use $civel-habilitacao-de-credito para preparar Habilita\u00E7\u00E3o de Cr\u00E9dito com os dados do caso."

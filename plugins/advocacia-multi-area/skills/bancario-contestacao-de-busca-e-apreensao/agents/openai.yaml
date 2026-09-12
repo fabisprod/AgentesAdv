@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contesta\u00E7\u00E3o de Busca e Apreens\u00E3o"
+  short_description: "Skill jur\u00EDdica: Contesta\u00E7\u00E3o de Busca e Apreens\u00E3o"
+  default_prompt: "Use $bancario-contestacao-de-busca-e-apreensao para preparar Contesta\u00E7\u00E3o de Busca e Apreens\u00E3o com os dados do caso."

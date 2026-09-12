@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resposta Preliminar (Defesa Preliminar / Defesa Prévia)"
+  short_description: "Skill jurídica: Resposta Preliminar (Defesa Preliminar / Defesa"
+  default_prompt: "Use $resposta-preliminar para preparar Resposta Preliminar (Defesa Preliminar / Defesa Prévia) com os dados do caso."

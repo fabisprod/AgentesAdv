@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Responsabilidade Civil Hospitalar"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Responsabilidade Civil Hospitalar"
+  default_prompt: "Use $saude-acao-de-responsabilidade-civil-hospitalar para preparar A\u00E7\u00E3o de Responsabilidade Civil Hospitalar com os dados do caso."

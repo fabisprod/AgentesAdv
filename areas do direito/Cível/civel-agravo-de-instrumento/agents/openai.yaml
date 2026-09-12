@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo de Instrumento"
+  short_description: "Skill jur\u00EDdica: Agravo de Instrumento"
+  default_prompt: "Use $civel-agravo-de-instrumento para preparar Agravo de Instrumento com os dados do caso."

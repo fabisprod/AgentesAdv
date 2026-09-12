@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo de Peti\u00E7\u00E3o Trabalhista"
+  short_description: "Skill jur\u00EDdica: Agravo de Peti\u00E7\u00E3o Trabalhista"
+  default_prompt: "Use $trabalhista-agravo-de-peticao-trabalhista para preparar Agravo de Peti\u00E7\u00E3o Trabalhista com os dados do caso."

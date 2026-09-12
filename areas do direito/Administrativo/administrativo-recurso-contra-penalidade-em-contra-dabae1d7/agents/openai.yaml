@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso contra Penalidade em Contrato Administrativo"
+  short_description: "Skill jur\u00EDdica: Recurso contra Penalidade em Contrato Administra"
+  default_prompt: "Use $administrativo-recurso-contra-penalidade-em-contra-dabae1d7 para preparar Recurso contra Penalidade em Contrato Administrativo com os dados do caso."

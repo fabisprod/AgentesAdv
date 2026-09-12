@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cobran\u00E7a de Taxas Condominiais"
+  short_description: "Skill jur\u00EDdica: Cobran\u00E7a de Taxas Condominiais"
+  default_prompt: "Use $imobiliario-cobranca-de-taxas-condominiais para preparar Cobran\u00E7a de Taxas Condominiais com os dados do caso."

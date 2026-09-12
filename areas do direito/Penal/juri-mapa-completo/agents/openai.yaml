@@ -1,0 +1,4 @@
+interface:
+  display_name: "Júri — Mapa Completo (da denúncia à execução)"
+  short_description: "Skill jurídica: Júri — Mapa Completo (da denúncia à execução)"
+  default_prompt: "Use $juri-mapa-completo para preparar Júri — Mapa Completo (da denúncia à execução) com os dados do caso."

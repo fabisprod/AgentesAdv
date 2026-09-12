@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obriga\u00E7\u00E3o de Fazer \u2014 Plano de Sa\u00FAde"
+  short_description: "Skill jur\u00EDdica: Obriga\u00E7\u00E3o de Fazer \u2014 Plano de Sa\u00FAde"
+  default_prompt: "Use $saude-obrigacao-de-fazer-plano-de-saude para preparar Obriga\u00E7\u00E3o de Fazer \u2014 Plano de Sa\u00FAde com os dados do caso."

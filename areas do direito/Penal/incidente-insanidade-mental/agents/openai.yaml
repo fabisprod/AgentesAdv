@@ -1,0 +1,4 @@
+interface:
+  display_name: "Incidente de Insanidade Mental (CPP, arts. 149 a 154)"
+  short_description: "Skill jurídica: Incidente de Insanidade Mental (CPP, arts. 149 a"
+  default_prompt: "Use $incidente-insanidade-mental para preparar Incidente de Insanidade Mental (CPP, arts. 149 a 154) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acidente de Trabalho e Doen\u00E7a Ocupacional"
+  short_description: "Skill jur\u00EDdica: Acidente de Trabalho e Doen\u00E7a Ocupacional"
+  default_prompt: "Use $trabalhista-acidente-de-trabalho-e-doenca-ocupacional para preparar Acidente de Trabalho e Doen\u00E7a Ocupacional com os dados do caso."

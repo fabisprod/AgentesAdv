@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acordo Extrajudicial Trabalhista"
+  short_description: "Skill jur\u00EDdica: Acordo Extrajudicial Trabalhista"
+  default_prompt: "Use $trabalhista-acordo-extrajudicial-trabalhista para preparar Acordo Extrajudicial Trabalhista com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa na Imputação de Lavagem de Capitais (Lei 9.613/98)"
+  short_description: "Skill jurídica: Defesa na Imputação de Lavagem de Capitais (Lei"
+  default_prompt: "Use $defesa-lavagem-capitais para preparar Defesa na Imputação de Lavagem de Capitais (Lei 9.613/98) com os dados do caso."

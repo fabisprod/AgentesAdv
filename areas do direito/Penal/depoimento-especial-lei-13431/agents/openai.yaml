@@ -1,0 +1,4 @@
+interface:
+  display_name: "Depoimento Especial e Escuta Especializada (Lei 13.431/2017)"
+  short_description: "Skill jurídica: Depoimento Especial e Escuta Especializada (Lei"
+  default_prompt: "Use $depoimento-especial-lei-13431 para preparar Depoimento Especial e Escuta Especializada (Lei 13.431/2017) com os dados do caso."

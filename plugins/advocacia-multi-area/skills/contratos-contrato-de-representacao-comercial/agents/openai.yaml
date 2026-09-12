@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Representacao Comercial"
+  short_description: "Skill jur\u00EDdica: Contrato de Representacao Comercial"
+  default_prompt: "Use $contratos-contrato-de-representacao-comercial para preparar Contrato de Representacao Comercial com os dados do caso."

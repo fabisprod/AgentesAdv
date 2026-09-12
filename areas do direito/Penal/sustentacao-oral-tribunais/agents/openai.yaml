@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sustentação Oral em Tribunais (Câmaras Criminais, STJ e STF)"
+  short_description: "Skill jurídica: Sustentação Oral em Tribunais (Câmaras Criminais"
+  default_prompt: "Use $sustentacao-oral-tribunais para preparar Sustentação Oral em Tribunais (Câmaras Criminais, STJ e STF) com os dados do caso."

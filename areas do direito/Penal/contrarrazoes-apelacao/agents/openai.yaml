@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrarrazões de Apelação"
+  short_description: "Skill jurídica: Contrarrazões de Apelação"
+  default_prompt: "Use $contrarrazoes-de-apelacao para preparar Contrarrazões de Apelação com os dados do caso."

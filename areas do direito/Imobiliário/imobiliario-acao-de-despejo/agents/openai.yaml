@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Despejo"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Despejo"
+  default_prompt: "Use $imobiliario-acao-de-despejo para preparar A\u00E7\u00E3o de Despejo com os dados do caso."

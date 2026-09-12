@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o contra Banco por Fraude em Conta (Transfer\u00EAncia N\u00E3o Autorizada)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o contra Banco por Fraude em Conta (Transfer\u00EA"
+  default_prompt: "Use $bancario-acao-contra-banco-por-fraude-em-conta-tra-df694da1 para preparar A\u00E7\u00E3o contra Banco por Fraude em Conta (Transfer\u00EAncia N\u00E3o Autorizada) com os dados do caso."

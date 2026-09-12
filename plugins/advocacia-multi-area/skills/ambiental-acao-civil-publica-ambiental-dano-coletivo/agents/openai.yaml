@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Civil P\u00FAblica Ambiental (Dano Coletivo)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Civil P\u00FAblica Ambiental (Dano Coletivo)"
+  default_prompt: "Use $ambiental-acao-civil-publica-ambiental-dano-coletivo para preparar A\u00E7\u00E3o Civil P\u00FAblica Ambiental (Dano Coletivo) com os dados do caso."

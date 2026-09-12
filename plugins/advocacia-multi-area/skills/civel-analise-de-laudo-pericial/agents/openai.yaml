@@ -1,0 +1,4 @@
+interface:
+  display_name: "An\u00E1lise de Laudo Pericial"
+  short_description: "Skill jur\u00EDdica: An\u00E1lise de Laudo Pericial"
+  default_prompt: "Use $civel-analise-de-laudo-pericial para preparar An\u00E1lise de Laudo Pericial com os dados do caso."

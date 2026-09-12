@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugna\u00E7\u00E3o de ITBI sobre Valor de Refer\u00EAncia"
+  short_description: "Skill jur\u00EDdica: Impugna\u00E7\u00E3o de ITBI sobre Valor de Refer\u00EAncia"
+  default_prompt: "Use $tributario-impugnacao-de-itbi-sobre-valor-de-referencia para preparar Impugna\u00E7\u00E3o de ITBI sobre Valor de Refer\u00EAncia com os dados do caso."

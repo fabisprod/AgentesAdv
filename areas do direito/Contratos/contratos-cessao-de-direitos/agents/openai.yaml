@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cessao de Direitos"
+  short_description: "Skill jur\u00EDdica: Cessao de Direitos"
+  default_prompt: "Use $contratos-cessao-de-direitos para preparar Cessao de Direitos com os dados do caso."

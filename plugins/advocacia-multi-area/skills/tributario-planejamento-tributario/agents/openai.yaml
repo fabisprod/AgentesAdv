@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planejamento Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Planejamento Tribut\u00E1rio"
+  default_prompt: "Use $tributario-planejamento-tributario para preparar Planejamento Tribut\u00E1rio com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alimentos Grav\u00EDdicos"
+  short_description: "Skill jur\u00EDdica: Alimentos Grav\u00EDdicos"
+  default_prompt: "Use $familia-alimentos-gravidicos para preparar Alimentos Grav\u00EDdicos com os dados do caso."

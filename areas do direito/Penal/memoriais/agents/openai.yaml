@@ -1,0 +1,4 @@
+interface:
+  display_name: "Memoriais (Alegações Finais Escritas)"
+  short_description: "Skill jurídica: Memoriais (Alegações Finais Escritas)"
+  default_prompt: "Use $memoriais para preparar Memoriais (Alegações Finais Escritas) com os dados do caso."

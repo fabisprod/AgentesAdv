@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos ao TST (SDI)"
+  short_description: "Skill jur\u00EDdica: Embargos ao TST (SDI)"
+  default_prompt: "Use $trabalhista-embargos-ao-tst-sdi para preparar Embargos ao TST (SDI) com os dados do caso."

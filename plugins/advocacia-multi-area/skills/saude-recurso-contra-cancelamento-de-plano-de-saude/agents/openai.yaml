@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso contra Cancelamento de Plano de Sa\u00FAde"
+  short_description: "Skill jur\u00EDdica: Recurso contra Cancelamento de Plano de Sa\u00FAde"
+  default_prompt: "Use $saude-recurso-contra-cancelamento-de-plano-de-saude para preparar Recurso contra Cancelamento de Plano de Sa\u00FAde com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a para Tratamento de Sa\u00FAde (Plano ou SUS)"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a para Tratamento de Sa\u00FAde (P"
+  default_prompt: "Use $consumidor-mandado-de-seguranca-para-tratamento-de-74176d53 para preparar Mandado de Seguran\u00E7a para Tratamento de Sa\u00FAde (Plano ou SUS) com os dados do caso."

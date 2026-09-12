@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Licitat\u00F3rio"
+  short_description: "Skill jur\u00EDdica: Recurso Licitat\u00F3rio"
+  default_prompt: "Use $administrativo-recurso-licitatorio para preparar Recurso Licitat\u00F3rio com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Invent\u00E1rio e Partilha"
+  short_description: "Skill jur\u00EDdica: Invent\u00E1rio e Partilha"
+  default_prompt: "Use $familia-inventario-e-partilha para preparar Invent\u00E1rio e Partilha com os dados do caso."

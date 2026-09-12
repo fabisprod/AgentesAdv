@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Reintegra\u00E7\u00E3o ao Servi\u00E7o Militar (Exclus\u00E3o Ilegal)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Reintegra\u00E7\u00E3o ao Servi\u00E7o Militar (Exclus\u00E3"
+  default_prompt: "Use $militar-acao-de-reintegracao-ao-servico-militar-exclusao-ilegal para preparar A\u00E7\u00E3o de Reintegra\u00E7\u00E3o ao Servi\u00E7o Militar (Exclus\u00E3o Ilegal) com os dados do caso."

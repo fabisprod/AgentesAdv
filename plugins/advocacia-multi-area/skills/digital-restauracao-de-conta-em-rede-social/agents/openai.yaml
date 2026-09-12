@@ -1,0 +1,4 @@
+interface:
+  display_name: "Restaura\u00E7\u00E3o de Conta em Rede Social"
+  short_description: "Skill jur\u00EDdica: Restaura\u00E7\u00E3o de Conta em Rede Social"
+  default_prompt: "Use $digital-restauracao-de-conta-em-rede-social para preparar Restaura\u00E7\u00E3o de Conta em Rede Social com os dados do caso."

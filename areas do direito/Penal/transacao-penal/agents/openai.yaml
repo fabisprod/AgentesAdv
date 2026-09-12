@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transação Penal (art. 76 da Lei 9.099/95)"
+  short_description: "Skill jurídica: Transação Penal (art. 76 da Lei 9.099/95)"
+  default_prompt: "Use $transacao-penal para preparar Transação Penal (art. 76 da Lei 9.099/95) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Concessao de Aposentadoria por Idade Rural"
+  short_description: "Skill jur\u00EDdica: Acao de Concessao de Aposentadoria por Idade Rur"
+  default_prompt: "Use $previdenciario-acao-de-concessao-de-aposentadoria-869163cf para preparar Acao de Concessao de Aposentadoria por Idade Rural com os dados do caso."

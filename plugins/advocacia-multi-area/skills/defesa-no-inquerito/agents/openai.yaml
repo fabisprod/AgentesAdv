@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa no Inquérito (atuação defensiva na investigação)"
+  short_description: "Skill jurídica: Defesa no Inquérito (atuação defensiva na invest"
+  default_prompt: "Use $defesa-no-inquerito para preparar Defesa no Inquérito (atuação defensiva na investigação) com os dados do caso."

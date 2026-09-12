@@ -1,0 +1,4 @@
+interface:
+  display_name: "Termo de Ajustamento de Conduta Ambiental (TAC)"
+  short_description: "Skill jur\u00EDdica: Termo de Ajustamento de Conduta Ambiental (TAC)"
+  default_prompt: "Use $ambiental-termo-de-ajustamento-de-conduta-ambiental-tac para preparar Termo de Ajustamento de Conduta Ambiental (TAC) com os dados do caso."

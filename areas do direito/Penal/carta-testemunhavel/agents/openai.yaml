@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carta Testemunhável"
+  short_description: "Skill jurídica: Carta Testemunhável"
+  default_prompt: "Use $carta-testemunhavel para preparar Carta Testemunhável com os dados do caso."

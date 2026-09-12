@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Nulidade de Transfer\u00EAncia Internacional de Atleta"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Nulidade de Transfer\u00EAncia Internacional"
+  default_prompt: "Use $desportivo-acao-de-nulidade-de-transferencia-inter-dbb13e77 para preparar A\u00E7\u00E3o de Nulidade de Transfer\u00EAncia Internacional de Atleta com os dados do caso."

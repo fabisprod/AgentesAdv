@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retifica\u00E7\u00E3o de \u00C1rea de Im\u00F3vel"
+  short_description: "Skill jur\u00EDdica: Retifica\u00E7\u00E3o de \u00C1rea de Im\u00F3vel"
+  default_prompt: "Use $imobiliario-retificacao-de-area-de-imovel para preparar Retifica\u00E7\u00E3o de \u00C1rea de Im\u00F3vel com os dados do caso."

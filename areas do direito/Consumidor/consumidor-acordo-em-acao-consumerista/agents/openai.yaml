@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acordo em A\u00E7\u00E3o Consumerista"
+  short_description: "Skill jur\u00EDdica: Acordo em A\u00E7\u00E3o Consumerista"
+  default_prompt: "Use $consumidor-acordo-em-acao-consumerista para preparar Acordo em A\u00E7\u00E3o Consumerista com os dados do caso."

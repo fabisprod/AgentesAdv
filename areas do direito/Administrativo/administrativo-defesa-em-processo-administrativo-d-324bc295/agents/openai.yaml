@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Processo Administrativo Disciplinar (PAD)"
+  short_description: "Skill jur\u00EDdica: Defesa em Processo Administrativo Disciplinar (P"
+  default_prompt: "Use $administrativo-defesa-em-processo-administrativo-d-324bc295 para preparar Defesa em Processo Administrativo Disciplinar (PAD) com os dados do caso."

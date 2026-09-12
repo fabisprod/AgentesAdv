@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos de Declaração (EDs)"
+  short_description: "Skill jurídica: Embargos de Declaração (EDs)"
+  default_prompt: "Use $embargos-de-declaracao para preparar Embargos de Declaração (EDs) com os dados do caso."

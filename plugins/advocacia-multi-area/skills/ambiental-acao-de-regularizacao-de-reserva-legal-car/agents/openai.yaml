@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Regulariza\u00E7\u00E3o de Reserva Legal (CAR)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Regulariza\u00E7\u00E3o de Reserva Legal (CAR)"
+  default_prompt: "Use $ambiental-acao-de-regularizacao-de-reserva-legal-car para preparar A\u00E7\u00E3o de Regulariza\u00E7\u00E3o de Reserva Legal (CAR) com os dados do caso."

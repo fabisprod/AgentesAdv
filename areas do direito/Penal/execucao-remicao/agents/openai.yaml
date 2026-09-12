@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remição de Pena e Efeitos da Falta Grave"
+  short_description: "Skill jurídica: Remição de Pena e Efeitos da Falta Grave"
+  default_prompt: "Use $execucao-remicao para preparar Remição de Pena e Efeitos da Falta Grave com os dados do caso."

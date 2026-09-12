@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revisão Criminal"
+  short_description: "Skill jurídica: Revisão Criminal"
+  default_prompt: "Use $revisao-criminal para preparar Revisão Criminal com os dados do caso."

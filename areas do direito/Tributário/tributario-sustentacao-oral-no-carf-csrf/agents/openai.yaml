@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sustenta\u00E7\u00E3o Oral no CARF/CSRF"
+  short_description: "Skill jur\u00EDdica: Sustenta\u00E7\u00E3o Oral no CARF/CSRF"
+  default_prompt: "Use $tributario-sustentacao-oral-no-carf-csrf para preparar Sustenta\u00E7\u00E3o Oral no CARF/CSRF com os dados do caso."

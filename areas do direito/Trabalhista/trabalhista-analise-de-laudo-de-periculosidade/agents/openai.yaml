@@ -1,0 +1,4 @@
+interface:
+  display_name: "An\u00E1lise de Laudo de Periculosidade"
+  short_description: "Skill jur\u00EDdica: An\u00E1lise de Laudo de Periculosidade"
+  default_prompt: "Use $trabalhista-analise-de-laudo-de-periculosidade para preparar An\u00E1lise de Laudo de Periculosidade com os dados do caso."

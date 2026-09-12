@@ -1,0 +1,4 @@
+interface:
+  display_name: "Elaboracao de Contrato"
+  short_description: "Skill jur\u00EDdica: Elaboracao de Contrato"
+  default_prompt: "Use $contratos-elaboracao-de-contrato para preparar Elaboracao de Contrato com os dados do caso."

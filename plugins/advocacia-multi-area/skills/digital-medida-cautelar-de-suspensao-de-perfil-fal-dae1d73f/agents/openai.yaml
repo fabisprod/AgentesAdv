@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medida Cautelar de Suspens\u00E3o de Perfil Falso (Impersonation)"
+  short_description: "Skill jur\u00EDdica: Medida Cautelar de Suspens\u00E3o de Perfil Falso (Im"
+  default_prompt: "Use $digital-medida-cautelar-de-suspensao-de-perfil-fal-dae1d73f para preparar Medida Cautelar de Suspens\u00E3o de Perfil Falso (Impersonation) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Concessao de Salario-Maternidade"
+  short_description: "Skill jur\u00EDdica: Acao de Concessao de Salario-Maternidade"
+  default_prompt: "Use $previdenciario-acao-de-concessao-de-salario-maternidade para preparar Acao de Concessao de Salario-Maternidade com os dados do caso."

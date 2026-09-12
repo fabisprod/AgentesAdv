@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer Societario"
+  short_description: "Skill jur\u00EDdica: Parecer Societario"
+  default_prompt: "Use $societario-parecer-societario para preparar Parecer Societario com os dados do caso."

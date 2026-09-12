@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Dano Ambiental Individual (Vizinhan\u00E7a)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Dano Ambiental Individua"
+  default_prompt: "Use $ambiental-acao-de-indenizacao-por-dano-ambiental-i-401cbc0a para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Dano Ambiental Individual (Vizinhan\u00E7a) com os dados do caso."

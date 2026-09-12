@@ -1,0 +1,4 @@
+interface:
+  display_name: "C\u00E1lculo Detalhado de Horas Extras e Adicionais"
+  short_description: "Skill jur\u00EDdica: C\u00E1lculo Detalhado de Horas Extras e Adicionais"
+  default_prompt: "Use $trabalhista-calculo-detalhado-de-horas-extras-e-adicionais para preparar C\u00E1lculo Detalhado de Horas Extras e Adicionais com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Usucapi\u00E3o"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Usucapi\u00E3o"
+  default_prompt: "Use $imobiliario-acao-de-usucapiao para preparar A\u00E7\u00E3o de Usucapi\u00E3o com os dados do caso."

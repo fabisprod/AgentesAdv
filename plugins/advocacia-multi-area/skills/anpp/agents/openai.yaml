@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acordo de Não Persecução Penal (ANPP — art. 28-A do CPP)"
+  short_description: "Skill jurídica: Acordo de Não Persecução Penal (ANPP — art. 28-A"
+  default_prompt: "Use $anpp para preparar Acordo de Não Persecução Penal (ANPP — art. 28-A do CPP) com os dados do caso."

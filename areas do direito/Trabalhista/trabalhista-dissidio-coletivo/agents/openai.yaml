@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diss\u00EDdio Coletivo"
+  short_description: "Skill jur\u00EDdica: Diss\u00EDdio Coletivo"
+  default_prompt: "Use $trabalhista-dissidio-coletivo para preparar Diss\u00EDdio Coletivo com os dados do caso."

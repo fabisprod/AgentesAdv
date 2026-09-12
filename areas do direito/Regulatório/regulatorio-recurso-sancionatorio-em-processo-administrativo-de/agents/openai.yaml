@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Sancionat\u00F3rio em Processo Administrativo de Ag\u00EAncia Reguladora"
+  short_description: "Skill jur\u00EDdica: Recurso Sancionat\u00F3rio em Processo Administrativo"
+  default_prompt: "Use $regulatorio-recurso-sancionatorio-em-processo-administrativo-de para preparar Recurso Sancionat\u00F3rio em Processo Administrativo de Ag\u00EAncia Reguladora com os dados do caso."

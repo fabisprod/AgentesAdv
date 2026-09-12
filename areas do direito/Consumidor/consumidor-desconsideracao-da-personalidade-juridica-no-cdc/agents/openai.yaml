@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desconsidera\u00E7\u00E3o da Personalidade Jur\u00EDdica no CDC"
+  short_description: "Skill jur\u00EDdica: Desconsidera\u00E7\u00E3o da Personalidade Jur\u00EDdica no CDC"
+  default_prompt: "Use $consumidor-desconsideracao-da-personalidade-juridica-no-cdc para preparar Desconsidera\u00E7\u00E3o da Personalidade Jur\u00EDdica no CDC com os dados do caso."

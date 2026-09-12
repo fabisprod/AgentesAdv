@@ -1,0 +1,4 @@
+interface:
+  display_name: "Emancipa\u00E7\u00E3o de Menor"
+  short_description: "Skill jur\u00EDdica: Emancipa\u00E7\u00E3o de Menor"
+  default_prompt: "Use $familia-emancipacao-de-menor para preparar Emancipa\u00E7\u00E3o de Menor com os dados do caso."

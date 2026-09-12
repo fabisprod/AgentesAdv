@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso em Sentido Estrito (CPPM)"
+  short_description: "Skill jur\u00EDdica: Recurso em Sentido Estrito (CPPM)"
+  default_prompt: "Use $militar-recurso-em-sentido-estrito-cppm para preparar Recurso em Sentido Estrito (CPPM) com os dados do caso."

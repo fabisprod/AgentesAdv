@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indeniza\u00E7\u00E3o por Cancelamento de Voo"
+  short_description: "Skill jur\u00EDdica: Indeniza\u00E7\u00E3o por Cancelamento de Voo"
+  default_prompt: "Use $aeronautico-indenizacao-por-cancelamento-de-voo para preparar Indeniza\u00E7\u00E3o por Cancelamento de Voo com os dados do caso."

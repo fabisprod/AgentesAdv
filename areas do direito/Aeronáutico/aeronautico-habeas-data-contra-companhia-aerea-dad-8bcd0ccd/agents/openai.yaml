@@ -1,0 +1,4 @@
+interface:
+  display_name: "Habeas Data contra Companhia A\u00E9rea (Dados de Passageiro)"
+  short_description: "Skill jur\u00EDdica: Habeas Data contra Companhia A\u00E9rea (Dados de Pas"
+  default_prompt: "Use $aeronautico-habeas-data-contra-companhia-aerea-dad-8bcd0ccd para preparar Habeas Data contra Companhia A\u00E9rea (Dados de Passageiro) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multiparentalidade"
+  short_description: "Skill jur\u00EDdica: Multiparentalidade"
+  default_prompt: "Use $familia-multiparentalidade para preparar Multiparentalidade com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Declarat\u00F3ria de Inexist\u00EAncia de Rela\u00E7\u00E3o Jur\u00EDdico-Tribut\u00E1ria"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Declarat\u00F3ria de Inexist\u00EAncia de Rela\u00E7\u00E3o Jur"
+  default_prompt: "Use $tributario-acao-declaratoria-de-inexistencia-de-re-a498147d para preparar A\u00E7\u00E3o Declarat\u00F3ria de Inexist\u00EAncia de Rela\u00E7\u00E3o Jur\u00EDdico-Tribut\u00E1ria com os dados do caso."

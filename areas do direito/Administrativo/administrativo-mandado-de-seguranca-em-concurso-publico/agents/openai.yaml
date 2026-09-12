@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a em Concurso P\u00FAblico"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a em Concurso P\u00FAblico"
+  default_prompt: "Use $administrativo-mandado-de-seguranca-em-concurso-publico para preparar Mandado de Seguran\u00E7a em Concurso P\u00FAblico com os dados do caso."

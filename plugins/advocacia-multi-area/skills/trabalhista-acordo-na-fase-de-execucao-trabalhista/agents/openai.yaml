@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acordo na Fase de Execu\u00E7\u00E3o Trabalhista"
+  short_description: "Skill jur\u00EDdica: Acordo na Fase de Execu\u00E7\u00E3o Trabalhista"
+  default_prompt: "Use $trabalhista-acordo-na-fase-de-execucao-trabalhista para preparar Acordo na Fase de Execu\u00E7\u00E3o Trabalhista com os dados do caso."

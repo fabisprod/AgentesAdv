@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Patroc\u00EDnio e Cess\u00E3o de Imagem de Atleta"
+  short_description: "Skill jur\u00EDdica: Contrato de Patroc\u00EDnio e Cess\u00E3o de Imagem de Atl"
+  default_prompt: "Use $desportivo-contrato-de-patrocinio-e-cessao-de-imagem-de-atleta para preparar Contrato de Patroc\u00EDnio e Cess\u00E3o de Imagem de Atleta com os dados do caso."

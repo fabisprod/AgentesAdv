@@ -1,0 +1,4 @@
+interface:
+  display_name: "An\u00E1lise de Contrato C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: An\u00E1lise de Contrato C\u00EDvel"
+  default_prompt: "Use $civel-analise-de-contrato-civel para preparar An\u00E1lise de Contrato C\u00EDvel com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "CTC \u2014 Certid\u00E3o de Tempo de Contribui\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: CTC \u2014 Certid\u00E3o de Tempo de Contribui\u00E7\u00E3o"
+  default_prompt: "Use $previdenciario-ctc-certidao-de-tempo-de-contribuicao para preparar CTC \u2014 Certid\u00E3o de Tempo de Contribui\u00E7\u00E3o com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Franquia e Circular de Oferta de Franquia (COF)"
+  short_description: "Skill jur\u00EDdica: Contrato de Franquia e Circular de Oferta de Fra"
+  default_prompt: "Use $contratos-contrato-de-franquia-e-circular-de-oferta-de-franquia para preparar Contrato de Franquia e Circular de Oferta de Franquia (COF) com os dados do caso."

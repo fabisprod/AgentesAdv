@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contesta\u00E7\u00E3o em A\u00E7\u00E3o Consumerista"
+  short_description: "Skill jur\u00EDdica: Contesta\u00E7\u00E3o em A\u00E7\u00E3o Consumerista"
+  default_prompt: "Use $consumidor-contestacao-em-acao-consumerista para preparar Contesta\u00E7\u00E3o em A\u00E7\u00E3o Consumerista com os dados do caso."

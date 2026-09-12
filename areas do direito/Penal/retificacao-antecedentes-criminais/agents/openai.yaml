@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retificação de antecedentes e sigilo de registros criminais"
+  short_description: "Skill jurídica: Retificação de antecedentes e sigilo de registro"
+  default_prompt: "Use $retificacao-antecedentes-criminais para preparar Retificação de antecedentes e sigilo de registros criminais com os dados do caso."

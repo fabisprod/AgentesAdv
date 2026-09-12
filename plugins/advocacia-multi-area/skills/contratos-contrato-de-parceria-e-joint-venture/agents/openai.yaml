@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Parceria e Joint Venture"
+  short_description: "Skill jur\u00EDdica: Contrato de Parceria e Joint Venture"
+  default_prompt: "Use $contratos-contrato-de-parceria-e-joint-venture para preparar Contrato de Parceria e Joint Venture com os dados do caso."

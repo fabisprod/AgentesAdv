@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso ANAC \u2014 Impugna\u00E7\u00E3o de Multa Administrativa"
+  short_description: "Skill jur\u00EDdica: Recurso ANAC \u2014 Impugna\u00E7\u00E3o de Multa Administrativ"
+  default_prompt: "Use $aeronautico-recurso-anac-impugnacao-de-multa-administrativa para preparar Recurso ANAC \u2014 Impugna\u00E7\u00E3o de Multa Administrativa com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consigna\u00E7\u00E3o em Pagamento"
+  short_description: "Skill jur\u00EDdica: Consigna\u00E7\u00E3o em Pagamento"
+  default_prompt: "Use $civel-consignacao-em-pagamento para preparar Consigna\u00E7\u00E3o em Pagamento com os dados do caso."

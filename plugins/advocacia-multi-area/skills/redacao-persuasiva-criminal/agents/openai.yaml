@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redação Persuasiva Criminal — a peça como obra-prima"
+  short_description: "Skill jurídica: Redação Persuasiva Criminal — a peça como obra-p"
+  default_prompt: "Use $redacao-persuasiva-criminal para preparar Redação Persuasiva Criminal — a peça como obra-prima com os dados do caso."

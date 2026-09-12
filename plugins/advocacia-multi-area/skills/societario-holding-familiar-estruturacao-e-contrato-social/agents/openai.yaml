@@ -1,0 +1,4 @@
+interface:
+  display_name: "Holding Familiar \u2014 Estrutura\u00E7\u00E3o e Contrato Social"
+  short_description: "Skill jur\u00EDdica: Holding Familiar \u2014 Estrutura\u00E7\u00E3o e Contrato Socia"
+  default_prompt: "Use $societario-holding-familiar-estruturacao-e-contrato-social para preparar Holding Familiar \u2014 Estrutura\u00E7\u00E3o e Contrato Social com os dados do caso."

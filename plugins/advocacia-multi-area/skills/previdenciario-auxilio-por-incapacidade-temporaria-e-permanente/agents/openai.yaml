@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auxilio por Incapacidade Temporaria e Permanente"
+  short_description: "Skill jur\u00EDdica: Auxilio por Incapacidade Temporaria e Permanente"
+  default_prompt: "Use $previdenciario-auxilio-por-incapacidade-temporaria-e-permanente para preparar Auxilio por Incapacidade Temporaria e Permanente com os dados do caso."

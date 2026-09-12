@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distrato Imobili\u00E1rio e Rescis\u00E3o de Promessa de Compra e Venda"
+  short_description: "Skill jur\u00EDdica: Distrato Imobili\u00E1rio e Rescis\u00E3o de Promessa de C"
+  default_prompt: "Use $imobiliario-distrato-imobiliario-e-rescisao-de-pro-60c65b59 para preparar Distrato Imobili\u00E1rio e Rescis\u00E3o de Promessa de Compra e Venda com os dados do caso."

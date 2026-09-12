@@ -1,0 +1,4 @@
+interface:
+  display_name: "Programa de Integridade e Anticorrup\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: Programa de Integridade e Anticorrup\u00E7\u00E3o"
+  default_prompt: "Use $regulatorio-programa-de-integridade-e-anticorrupcao para preparar Programa de Integridade e Anticorrup\u00E7\u00E3o com os dados do caso."

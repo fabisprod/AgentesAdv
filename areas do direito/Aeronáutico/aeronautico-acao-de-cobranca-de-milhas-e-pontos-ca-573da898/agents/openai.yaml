@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Cobran\u00E7a de Milhas e Pontos (Cancelamento/Expira\u00E7\u00E3o Indevida)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Cobran\u00E7a de Milhas e Pontos (Cancelament"
+  default_prompt: "Use $aeronautico-acao-de-cobranca-de-milhas-e-pontos-ca-573da898 para preparar A\u00E7\u00E3o de Cobran\u00E7a de Milhas e Pontos (Cancelamento/Expira\u00E7\u00E3o Indevida) com os dados do caso."

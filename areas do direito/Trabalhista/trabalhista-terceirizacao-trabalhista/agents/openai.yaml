@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terceiriza\u00E7\u00E3o Trabalhista"
+  short_description: "Skill jur\u00EDdica: Terceiriza\u00E7\u00E3o Trabalhista"
+  default_prompt: "Use $trabalhista-terceirizacao-trabalhista para preparar Terceiriza\u00E7\u00E3o Trabalhista com os dados do caso."

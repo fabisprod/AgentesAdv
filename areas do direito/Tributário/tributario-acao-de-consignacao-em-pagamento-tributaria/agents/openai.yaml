@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Consigna\u00E7\u00E3o em Pagamento Tribut\u00E1ria"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Consigna\u00E7\u00E3o em Pagamento Tribut\u00E1ria"
+  default_prompt: "Use $tributario-acao-de-consignacao-em-pagamento-tributaria para preparar A\u00E7\u00E3o de Consigna\u00E7\u00E3o em Pagamento Tribut\u00E1ria com os dados do caso."

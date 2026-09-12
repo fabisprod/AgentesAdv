@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compliance Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Compliance Tribut\u00E1rio"
+  default_prompt: "Use $tributario-compliance-tributario para preparar Compliance Tribut\u00E1rio com os dados do caso."

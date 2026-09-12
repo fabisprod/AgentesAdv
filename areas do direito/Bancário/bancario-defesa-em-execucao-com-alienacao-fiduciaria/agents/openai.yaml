@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Execu\u00E7\u00E3o com Aliena\u00E7\u00E3o Fiduci\u00E1ria"
+  short_description: "Skill jur\u00EDdica: Defesa em Execu\u00E7\u00E3o com Aliena\u00E7\u00E3o Fiduci\u00E1ria"
+  default_prompt: "Use $bancario-defesa-em-execucao-com-alienacao-fiduciaria para preparar Defesa em Execu\u00E7\u00E3o com Aliena\u00E7\u00E3o Fiduci\u00E1ria com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preservação e Produção de Prova Digital pela Defesa"
+  short_description: "Skill jurídica: Preservação e Produção de Prova Digital pela Def"
+  default_prompt: "Use $preservacao-prova-digital-defesa para preparar Preservação e Produção de Prova Digital pela Defesa com os dados do caso."

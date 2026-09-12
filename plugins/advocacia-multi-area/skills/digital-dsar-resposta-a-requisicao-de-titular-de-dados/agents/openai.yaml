@@ -1,0 +1,4 @@
+interface:
+  display_name: "DSAR \u2014 Resposta a Requisi\u00E7\u00E3o de Titular de Dados"
+  short_description: "Skill jur\u00EDdica: DSAR \u2014 Resposta a Requisi\u00E7\u00E3o de Titular de Dados"
+  default_prompt: "Use $digital-dsar-resposta-a-requisicao-de-titular-de-dados para preparar DSAR \u2014 Resposta a Requisi\u00E7\u00E3o de Titular de Dados com os dados do caso."

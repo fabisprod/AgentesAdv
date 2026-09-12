@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audiência de Custódia (CPP, art. 310; Res. CNJ 213/2015)"
+  short_description: "Skill jurídica: Audiência de Custódia (CPP, art. 310; Res. CNJ 2"
+  default_prompt: "Use $audiencia-de-custodia para preparar Audiência de Custódia (CPP, art. 310; Res. CNJ 213/2015) com os dados do caso."

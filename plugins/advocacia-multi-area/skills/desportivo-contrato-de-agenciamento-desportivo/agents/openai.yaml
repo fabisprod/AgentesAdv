@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Agenciamento Desportivo"
+  short_description: "Skill jur\u00EDdica: Contrato de Agenciamento Desportivo"
+  default_prompt: "Use $desportivo-contrato-de-agenciamento-desportivo para preparar Contrato de Agenciamento Desportivo com os dados do caso."

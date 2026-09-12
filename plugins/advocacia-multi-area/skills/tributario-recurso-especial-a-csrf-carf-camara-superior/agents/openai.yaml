@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Especial \u00E0 CSRF (CARF \u2014 C\u00E2mara Superior)"
+  short_description: "Skill jur\u00EDdica: Recurso Especial \u00E0 CSRF (CARF \u2014 C\u00E2mara Superior)"
+  default_prompt: "Use $tributario-recurso-especial-a-csrf-carf-camara-superior para preparar Recurso Especial \u00E0 CSRF (CARF \u2014 C\u00E2mara Superior) com os dados do caso."

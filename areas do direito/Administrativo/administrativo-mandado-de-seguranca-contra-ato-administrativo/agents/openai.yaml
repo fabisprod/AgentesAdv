@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a contra Ato Administrativo"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a contra Ato Administrativo"
+  default_prompt: "Use $administrativo-mandado-de-seguranca-contra-ato-administrativo para preparar Mandado de Seguran\u00E7a contra Ato Administrativo com os dados do caso."

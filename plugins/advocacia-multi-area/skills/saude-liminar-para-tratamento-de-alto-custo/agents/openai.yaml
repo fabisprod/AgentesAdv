@@ -1,0 +1,4 @@
+interface:
+  display_name: "Liminar para Tratamento de Alto Custo"
+  short_description: "Skill jur\u00EDdica: Liminar para Tratamento de Alto Custo"
+  default_prompt: "Use $saude-liminar-para-tratamento-de-alto-custo para preparar Liminar para Tratamento de Alto Custo com os dados do caso."

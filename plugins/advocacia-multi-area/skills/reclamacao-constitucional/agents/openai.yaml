@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reclamação Constitucional em Matéria Criminal (Rcl — STF/STJ)"
+  short_description: "Skill jurídica: Reclamação Constitucional em Matéria Criminal (R"
+  default_prompt: "Use $reclamacao-constitucional para preparar Reclamação Constitucional em Matéria Criminal (Rcl — STF/STJ) com os dados do caso."

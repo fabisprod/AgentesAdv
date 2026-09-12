@@ -1,0 +1,4 @@
+interface:
+  display_name: "SLA \u2014 Acordo de Nivel de Servico"
+  short_description: "Skill jur\u00EDdica: SLA \u2014 Acordo de Nivel de Servico"
+  default_prompt: "Use $contratos-sla-acordo-de-nivel-de-servico para preparar SLA \u2014 Acordo de Nivel de Servico com os dados do caso."

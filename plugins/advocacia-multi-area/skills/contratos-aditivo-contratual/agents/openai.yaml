@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aditivo Contratual"
+  short_description: "Skill jur\u00EDdica: Aditivo Contratual"
+  default_prompt: "Use $contratos-aditivo-contratual para preparar Aditivo Contratual com os dados do caso."

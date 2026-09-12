@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Inominado / Apela\u00E7\u00E3o Consumerista"
+  short_description: "Skill jur\u00EDdica: Recurso Inominado / Apela\u00E7\u00E3o Consumerista"
+  default_prompt: "Use $consumidor-recurso-inominado-apelacao-consumerista para preparar Recurso Inominado / Apela\u00E7\u00E3o Consumerista com os dados do caso."

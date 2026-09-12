@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso em Processo Antidoping"
+  short_description: "Skill jur\u00EDdica: Recurso em Processo Antidoping"
+  default_prompt: "Use $desportivo-recurso-em-processo-antidoping para preparar Recurso em Processo Antidoping com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Ordinário Constitucional em Habeas Corpus (RHC)"
+  short_description: "Skill jurídica: Recurso Ordinário Constitucional em Habeas Corpu"
+  default_prompt: "Use $recurso-ordinario-hc para preparar Recurso Ordinário Constitucional em Habeas Corpus (RHC) com os dados do caso."

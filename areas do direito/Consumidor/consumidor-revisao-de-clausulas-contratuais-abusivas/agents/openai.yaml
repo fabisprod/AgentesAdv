@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revis\u00E3o de Cl\u00E1usulas Contratuais Abusivas"
+  short_description: "Skill jur\u00EDdica: Revis\u00E3o de Cl\u00E1usulas Contratuais Abusivas"
+  default_prompt: "Use $consumidor-revisao-de-clausulas-contratuais-abusivas para preparar Revis\u00E3o de Cl\u00E1usulas Contratuais Abusivas com os dados do caso."

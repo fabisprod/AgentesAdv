@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Revisao por Erro de Calculo da RMI"
+  short_description: "Skill jur\u00EDdica: Acao de Revisao por Erro de Calculo da RMI"
+  default_prompt: "Use $previdenciario-acao-de-revisao-por-erro-de-calculo-da-rmi para preparar Acao de Revisao por Erro de Calculo da RMI com os dados do caso."

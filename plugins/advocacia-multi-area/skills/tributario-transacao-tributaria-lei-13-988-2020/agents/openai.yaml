@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transa\u00E7\u00E3o Tribut\u00E1ria (Lei 13.988/2020)"
+  short_description: "Skill jur\u00EDdica: Transa\u00E7\u00E3o Tribut\u00E1ria (Lei 13.988/2020)"
+  default_prompt: "Use $tributario-transacao-tributaria-lei-13-988-2020 para preparar Transa\u00E7\u00E3o Tribut\u00E1ria (Lei 13.988/2020) com os dados do caso."

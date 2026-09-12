@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o contra Plano de Sa\u00FAde por Negativa de Cobertura (Doen\u00E7a Rara)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o contra Plano de Sa\u00FAde por Negativa de Cober"
+  default_prompt: "Use $saude-acao-contra-plano-de-saude-por-negativa-de-c-9a0e15ac para preparar A\u00E7\u00E3o contra Plano de Sa\u00FAde por Negativa de Cobertura (Doen\u00E7a Rara) com os dados do caso."

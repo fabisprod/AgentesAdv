@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perdão, perempção e renúncia na ação penal privada"
+  short_description: "Skill jurídica: Perdão, perempção e renúncia na ação penal priva"
+  default_prompt: "Use $perdao-perempcao-acao-privada para preparar Perdão, perempção e renúncia na ação penal privada com os dados do caso."

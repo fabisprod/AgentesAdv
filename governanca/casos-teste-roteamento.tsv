@@ -1,0 +1,17 @@
+id	pedido	resultado	candidatas_aceitaveis	candidatas_proibidas	perguntas_criticas
+RT-01	Meu voo atrasou oito horas e perdi a conexão.	esclarecer	aeronautico-indenizacao-por-atraso-de-voo | aeronautico-acao-contra-companhia-aerea-por-escala-14a63526		bilhete único; voo nacional ou internacional; prejuízos comprovados
+RT-02	Meu nome foi negativado por dívida que nunca fiz.	executar	consumidor-negativacao-indevida-em-cadastros-de-pr-4b083958		credor; aviso prévio; documentos; dano material
+RT-03	Quero recorrer da sentença da Vara do Trabalho.	esclarecer	trabalhista-recurso-ordinario-trabalhista		ato recorrido; data da intimação; rito; preparo
+RT-04	O INSS negou meu benefício porque estou incapaz.	esclarecer	previdenciario-acao-de-concessao-de-beneficio-previdenciario		benefício requerido; DER; indeferimento; incapacidade; qualidade de segurado
+RT-05	Quero me divorciar, definir guarda, alimentos e partilhar os bens.	esclarecer	familia-acao-de-divorcio		consenso; filhos; patrimônio; violência; competência
+RT-06	Houve vazamento de dados; precisamos comunicar a ANPD e responder clientes.	executar	digital-notificacao-de-incidente-lgpd | digital-resposta-a-titular-de-dados		controlador; natureza dos dados; risco; data da ciência; medidas já tomadas
+RT-07	Meu sócio quer sair e precisamos apurar haveres.	esclarecer	societario-dissolucao-de-sociedade		retirada ou exclusão; contrato social; tipo societário; balanço; prazo
+RT-08	O plano negou medicamento de alto custo.	esclarecer	consumidor-plano-de-saude-negativa-de-cobertura | saude-liminar-para-tratamento-de-alto-custo		plano privado ou SUS; prescrição; urgência; rol; negativa formal
+RT-09	A União ocupou parte da fazenda para abrir uma estrada e não indenizou.	executar	agrario-indenizacao-por-desapropriacao-indireta-rural		data da ocupação; prova dominial; extensão; obras; ente responsável
+RT-10	Servidor recebeu acusação em PAD e tem dez dias para se defender.	esclarecer	administrativo-defesa-em-processo-administrativo-d-324bc295		ente federativo; estatuto; portaria; imputação; termo inicial do prazo
+RT-11	Fui citado em execução fiscal e bloquearam minha conta.	esclarecer	tributario-excecao-de-pre-executividade		garantia; titularidade da conta; CDA; prazo; causa do bloqueio
+RT-12	Quero cancelar um contrato.	esclarecer	contratos-distrato-e-rescisao-contratual		tipo; cláusulas; inadimplemento; prazo; objetivo
+RT-13	O inventário tem uma fazenda produtiva e quotas de uma empresa.	esclarecer	familia-inventario-e-partilha | agrario-inventario-de-imovel-rural		óbitos; testamento; herdeiros; situação registral; contrato social
+RT-14	Quero registrar minha marca e impedir que copiem meu software.	lacuna			território; marca; titularidade do software; registro; uso pelo terceiro
+RT-15	A empresa precisa pedir recuperação judicial.	lacuna			passivo; atividade; documentos contábeis; competência; urgência
+RT-16	Fui denunciado por agressão e recebi citação.	lacuna			data e tipo de citação; imputação; rito; provas; testemunhas

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Júri em Plenário — Preparação dos Debates pela Defesa"
+  short_description: "Skill jurídica: Júri em Plenário — Preparação dos Debates pela D"
+  default_prompt: "Use $juri-plenario-debates para preparar Júri em Plenário — Preparação dos Debates pela Defesa com os dados do caso."

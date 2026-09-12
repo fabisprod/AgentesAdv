@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acordo Extrajudicial Familiar"
+  short_description: "Skill jur\u00EDdica: Acordo Extrajudicial Familiar"
+  default_prompt: "Use $familia-acordo-extrajudicial-familiar para preparar Acordo Extrajudicial Familiar com os dados do caso."

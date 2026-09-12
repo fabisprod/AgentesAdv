@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alegações Finais Orais (Debates na AIJ)"
+  short_description: "Skill jurídica: Alegações Finais Orais (Debates na AIJ)"
+  default_prompt: "Use $alegacoes-finais-orais para preparar Alegações Finais Orais (Debates na AIJ) com os dados do caso."

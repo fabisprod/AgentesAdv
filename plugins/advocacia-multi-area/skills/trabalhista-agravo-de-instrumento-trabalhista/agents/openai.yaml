@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo de Instrumento Trabalhista"
+  short_description: "Skill jur\u00EDdica: Agravo de Instrumento Trabalhista"
+  default_prompt: "Use $trabalhista-agravo-de-instrumento-trabalhista para preparar Agravo de Instrumento Trabalhista com os dados do caso."

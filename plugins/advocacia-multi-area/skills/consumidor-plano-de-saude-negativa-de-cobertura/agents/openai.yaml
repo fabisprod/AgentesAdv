@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plano de Sa\u00FAde \u2014 Negativa de Cobertura"
+  short_description: "Skill jur\u00EDdica: Plano de Sa\u00FAde \u2014 Negativa de Cobertura"
+  default_prompt: "Use $consumidor-plano-de-saude-negativa-de-cobertura para preparar Plano de Sa\u00FAde \u2014 Negativa de Cobertura com os dados do caso."

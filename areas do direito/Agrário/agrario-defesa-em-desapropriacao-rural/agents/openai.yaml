@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Desapropria\u00E7\u00E3o Rural"
+  short_description: "Skill jur\u00EDdica: Defesa em Desapropria\u00E7\u00E3o Rural"
+  default_prompt: "Use $agrario-defesa-em-desapropriacao-rural para preparar Defesa em Desapropria\u00E7\u00E3o Rural com os dados do caso."

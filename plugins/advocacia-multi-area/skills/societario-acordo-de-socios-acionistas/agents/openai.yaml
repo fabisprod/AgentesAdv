@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acordo De Socios Acionistas"
+  short_description: "Skill jur\u00EDdica: Acordo De Socios Acionistas"
+  default_prompt: "Use $societario-acordo-de-socios-acionistas para preparar Acordo De Socios Acionistas com os dados do caso."

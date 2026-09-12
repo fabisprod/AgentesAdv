@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Cobran\u00E7a"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Cobran\u00E7a"
+  default_prompt: "Use $civel-acao-de-cobranca para preparar A\u00E7\u00E3o de Cobran\u00E7a com os dados do caso."

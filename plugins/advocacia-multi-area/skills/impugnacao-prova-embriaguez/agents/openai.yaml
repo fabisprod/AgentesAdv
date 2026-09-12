@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugnação da Prova da Embriaguez (art. 306 do CTB)"
+  short_description: "Skill jurídica: Impugnação da Prova da Embriaguez (art. 306 do C"
+  default_prompt: "Use $impugnacao-prova-embriaguez para preparar Impugnação da Prova da Embriaguez (art. 306 do CTB) com os dados do caso."

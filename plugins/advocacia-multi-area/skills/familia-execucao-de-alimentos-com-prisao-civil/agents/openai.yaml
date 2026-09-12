@@ -1,0 +1,4 @@
+interface:
+  display_name: "Execu\u00E7\u00E3o de Alimentos com Pris\u00E3o Civil"
+  short_description: "Skill jur\u00EDdica: Execu\u00E7\u00E3o de Alimentos com Pris\u00E3o Civil"
+  default_prompt: "Use $familia-execucao-de-alimentos-com-prisao-civil para preparar Execu\u00E7\u00E3o de Alimentos com Pris\u00E3o Civil com os dados do caso."

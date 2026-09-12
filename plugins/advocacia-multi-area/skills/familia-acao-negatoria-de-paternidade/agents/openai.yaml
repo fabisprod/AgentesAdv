@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Negat\u00F3ria de Paternidade"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Negat\u00F3ria de Paternidade"
+  default_prompt: "Use $familia-acao-negatoria-de-paternidade para preparar A\u00E7\u00E3o Negat\u00F3ria de Paternidade com os dados do caso."

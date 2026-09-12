@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso em Processo Administrativo Disciplinar Militar (PAD)"
+  short_description: "Skill jur\u00EDdica: Recurso em Processo Administrativo Disciplinar M"
+  default_prompt: "Use $militar-recurso-em-processo-administrativo-discipl-f669ca6a para preparar Recurso em Processo Administrativo Disciplinar Militar (PAD) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a Tribut\u00E1rio"
+  default_prompt: "Use $tributario-mandado-de-seguranca-tributario para preparar Mandado de Seguran\u00E7a Tribut\u00E1rio com os dados do caso."

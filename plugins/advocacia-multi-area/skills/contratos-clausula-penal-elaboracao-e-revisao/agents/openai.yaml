@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cl\u00E1usula Penal \u2014 Elabora\u00E7\u00E3o e Revis\u00E3o"
+  short_description: "Skill jur\u00EDdica: Cl\u00E1usula Penal \u2014 Elabora\u00E7\u00E3o e Revis\u00E3o"
+  default_prompt: "Use $contratos-clausula-penal-elaboracao-e-revisao para preparar Cl\u00E1usula Penal \u2014 Elabora\u00E7\u00E3o e Revis\u00E3o com os dados do caso."

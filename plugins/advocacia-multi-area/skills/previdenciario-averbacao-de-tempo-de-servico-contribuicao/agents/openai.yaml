@@ -1,0 +1,4 @@
+interface:
+  display_name: "Averba\u00E7\u00E3o de Tempo de Servi\u00E7o/Contribui\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: Averba\u00E7\u00E3o de Tempo de Servi\u00E7o/Contribui\u00E7\u00E3o"
+  default_prompt: "Use $previdenciario-averbacao-de-tempo-de-servico-contribuicao para preparar Averba\u00E7\u00E3o de Tempo de Servi\u00E7o/Contribui\u00E7\u00E3o com os dados do caso."

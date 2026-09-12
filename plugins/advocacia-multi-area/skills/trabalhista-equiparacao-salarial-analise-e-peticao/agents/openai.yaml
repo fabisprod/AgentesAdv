@@ -1,0 +1,4 @@
+interface:
+  display_name: "Equipara\u00E7\u00E3o Salarial \u2014 An\u00E1lise e Peti\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: Equipara\u00E7\u00E3o Salarial \u2014 An\u00E1lise e Peti\u00E7\u00E3o"
+  default_prompt: "Use $trabalhista-equiparacao-salarial-analise-e-peticao para preparar Equipara\u00E7\u00E3o Salarial \u2014 An\u00E1lise e Peti\u00E7\u00E3o com os dados do caso."

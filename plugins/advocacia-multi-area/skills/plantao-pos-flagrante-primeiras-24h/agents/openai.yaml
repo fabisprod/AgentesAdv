@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plantão Pós-Flagrante — As Primeiras 24 Horas (CPP, arts. 301 a 310)"
+  short_description: "Skill jurídica: Plantão Pós-Flagrante — As Primeiras 24 Horas (C"
+  default_prompt: "Use $plantao-pos-flagrante-primeiras-24h para preparar Plantão Pós-Flagrante — As Primeiras 24 Horas (CPP, arts. 301 a 310) com os dados do caso."

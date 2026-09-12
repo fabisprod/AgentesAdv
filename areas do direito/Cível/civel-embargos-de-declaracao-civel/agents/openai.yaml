@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos de Declara\u00E7\u00E3o C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: Embargos de Declara\u00E7\u00E3o C\u00EDvel"
+  default_prompt: "Use $civel-embargos-de-declaracao-civel para preparar Embargos de Declara\u00E7\u00E3o C\u00EDvel com os dados do caso."

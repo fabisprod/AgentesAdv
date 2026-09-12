@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transcrição de Audiência / Depoimento"
+  short_description: "Skill jurídica: Transcrição de Audiência / Depoimento"
+  default_prompt: "Use $transcricao-audiencia para preparar Transcrição de Audiência / Depoimento com os dados do caso."

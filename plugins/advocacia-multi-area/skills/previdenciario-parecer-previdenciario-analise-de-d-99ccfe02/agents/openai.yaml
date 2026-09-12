@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer Previdenciario \u2014 Analise de Direitos e Tempo"
+  short_description: "Skill jur\u00EDdica: Parecer Previdenciario \u2014 Analise de Direitos e T"
+  default_prompt: "Use $previdenciario-parecer-previdenciario-analise-de-d-99ccfe02 para preparar Parecer Previdenciario \u2014 Analise de Direitos e Tempo com os dados do caso."

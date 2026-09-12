@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cancelamento de CDA \u2014 D\u00EDvida Ativa"
+  short_description: "Skill jur\u00EDdica: Cancelamento de CDA \u2014 D\u00EDvida Ativa"
+  default_prompt: "Use $tributario-cancelamento-de-cda-divida-ativa para preparar Cancelamento de CDA \u2014 D\u00EDvida Ativa com os dados do caso."

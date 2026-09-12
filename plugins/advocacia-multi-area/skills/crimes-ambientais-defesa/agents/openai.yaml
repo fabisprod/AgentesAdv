@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em crimes ambientais (Lei 9.605/98)"
+  short_description: "Skill jurídica: Defesa em crimes ambientais (Lei 9.605/98)"
+  default_prompt: "Use $crimes-ambientais-defesa para preparar Defesa em crimes ambientais (Lei 9.605/98) com os dados do caso."

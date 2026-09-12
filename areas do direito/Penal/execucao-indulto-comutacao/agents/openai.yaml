@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indulto / Comutação / Anistia (clemência soberana)"
+  short_description: "Skill jurídica: Indulto / Comutação / Anistia (clemência soberan"
+  default_prompt: "Use $execucao-indulto-comutacao para preparar Indulto / Comutação / Anistia (clemência soberana) com os dados do caso."

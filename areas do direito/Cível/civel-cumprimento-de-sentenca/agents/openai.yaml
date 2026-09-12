@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cumprimento de Senten\u00E7a"
+  short_description: "Skill jur\u00EDdica: Cumprimento de Senten\u00E7a"
+  default_prompt: "Use $civel-cumprimento-de-sentenca para preparar Cumprimento de Senten\u00E7a com os dados do caso."

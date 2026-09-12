@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer Jurídico-Criminal (consulta, viabilidade e custos legis)"
+  short_description: "Skill jurídica: Parecer Jurídico-Criminal (consulta, viabilidade"
+  default_prompt: "Use $parecer-juridico-criminal para preparar Parecer Jurídico-Criminal (consulta, viabilidade e custos legis) com os dados do caso."

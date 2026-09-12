@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peticao de Aposentadoria"
+  short_description: "Skill jur\u00EDdica: Peticao de Aposentadoria"
+  default_prompt: "Use $previdenciario-peticao-de-aposentadoria para preparar Peticao de Aposentadoria com os dados do caso."

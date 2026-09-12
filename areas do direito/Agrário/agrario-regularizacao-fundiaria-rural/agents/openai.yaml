@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regulariza\u00E7\u00E3o Fundi\u00E1ria Rural"
+  short_description: "Skill jur\u00EDdica: Regulariza\u00E7\u00E3o Fundi\u00E1ria Rural"
+  default_prompt: "Use $agrario-regularizacao-fundiaria-rural para preparar Regulariza\u00E7\u00E3o Fundi\u00E1ria Rural com os dados do caso."

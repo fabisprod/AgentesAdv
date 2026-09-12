@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Regressiva contra Correspons\u00E1veis Tribut\u00E1rios"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Regressiva contra Correspons\u00E1veis Tribut\u00E1ri"
+  default_prompt: "Use $tributario-acao-regressiva-contra-corresponsaveis-tributarios para preparar A\u00E7\u00E3o Regressiva contra Correspons\u00E1veis Tribut\u00E1rios com os dados do caso."

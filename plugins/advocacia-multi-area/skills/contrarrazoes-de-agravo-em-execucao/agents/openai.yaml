@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrarrazões de Agravo em Execução"
+  short_description: "Skill jurídica: Contrarrazões de Agravo em Execução"
+  default_prompt: "Use $contrarrazoes-de-agravo-em-execucao para preparar Contrarrazões de Agravo em Execução com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Revisional de Contrato Banc\u00E1rio"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Revisional de Contrato Banc\u00E1rio"
+  default_prompt: "Use $bancario-acao-revisional-de-contrato-bancario para preparar A\u00E7\u00E3o Revisional de Contrato Banc\u00E1rio com os dados do caso."

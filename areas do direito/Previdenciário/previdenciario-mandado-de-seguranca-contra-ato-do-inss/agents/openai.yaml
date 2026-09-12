@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguranca contra ato do INSS"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguranca contra ato do INSS"
+  default_prompt: "Use $previdenciario-mandado-de-seguranca-contra-ato-do-inss para preparar Mandado de Seguranca contra ato do INSS com os dados do caso."

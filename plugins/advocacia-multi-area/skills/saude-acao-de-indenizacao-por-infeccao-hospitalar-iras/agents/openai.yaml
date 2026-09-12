@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Infec\u00E7\u00E3o Hospitalar (IRAS)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Infec\u00E7\u00E3o Hospitalar (IRA"
+  default_prompt: "Use $saude-acao-de-indenizacao-por-infeccao-hospitalar-iras para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Infec\u00E7\u00E3o Hospitalar (IRAS) com os dados do caso."

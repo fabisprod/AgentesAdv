@@ -1,0 +1,4 @@
+interface:
+  display_name: "ECA — Defesa na Apuração de Ato Infracional"
+  short_description: "Skill jurídica: ECA — Defesa na Apuração de Ato Infracional"
+  default_prompt: "Use $eca-defesa-ato-infracional para preparar ECA — Defesa na Apuração de Ato Infracional com os dados do caso."

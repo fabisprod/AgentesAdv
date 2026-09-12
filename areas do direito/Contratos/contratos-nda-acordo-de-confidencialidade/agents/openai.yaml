@@ -1,0 +1,4 @@
+interface:
+  display_name: "NDA \u2014 Acordo de Confidencialidade"
+  short_description: "Skill jur\u00EDdica: NDA \u2014 Acordo de Confidencialidade"
+  default_prompt: "Use $contratos-nda-acordo-de-confidencialidade para preparar NDA \u2014 Acordo de Confidencialidade com os dados do caso."

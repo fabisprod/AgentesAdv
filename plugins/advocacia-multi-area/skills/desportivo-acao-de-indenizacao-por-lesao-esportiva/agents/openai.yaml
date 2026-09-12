@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Les\u00E3o Esportiva"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Les\u00E3o Esportiva"
+  default_prompt: "Use $desportivo-acao-de-indenizacao-por-lesao-esportiva para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Les\u00E3o Esportiva com os dados do caso."

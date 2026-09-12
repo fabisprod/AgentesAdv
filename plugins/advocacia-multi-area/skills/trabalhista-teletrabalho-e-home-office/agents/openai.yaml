@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teletrabalho e Home Office"
+  short_description: "Skill jur\u00EDdica: Teletrabalho e Home Office"
+  default_prompt: "Use $trabalhista-teletrabalho-e-home-office para preparar Teletrabalho e Home Office com os dados do caso."

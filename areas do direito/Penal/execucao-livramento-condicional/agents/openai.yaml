@@ -1,0 +1,4 @@
+interface:
+  display_name: "Livramento Condicional (execução penal)"
+  short_description: "Skill jurídica: Livramento Condicional (execução penal)"
+  default_prompt: "Use $execucao-livramento-condicional para preparar Livramento Condicional (execução penal) com os dados do caso."

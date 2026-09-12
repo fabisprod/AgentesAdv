@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Eleitoral"
+  short_description: "Skill jur\u00EDdica: Recurso Eleitoral"
+  default_prompt: "Use $eleitoral-recurso-eleitoral para preparar Recurso Eleitoral com os dados do caso."

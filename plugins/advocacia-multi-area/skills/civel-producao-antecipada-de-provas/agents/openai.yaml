@@ -1,0 +1,4 @@
+interface:
+  display_name: "Produ\u00E7\u00E3o Antecipada de Provas"
+  short_description: "Skill jur\u00EDdica: Produ\u00E7\u00E3o Antecipada de Provas"
+  default_prompt: "Use $civel-producao-antecipada-de-provas para preparar Produ\u00E7\u00E3o Antecipada de Provas com os dados do caso."

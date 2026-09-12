@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Repeti\u00E7\u00E3o de Ind\u00E9bito Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Repeti\u00E7\u00E3o de Ind\u00E9bito Tribut\u00E1rio"
+  default_prompt: "Use $tributario-acao-de-repeticao-de-indebito-tributario para preparar A\u00E7\u00E3o de Repeti\u00E7\u00E3o de Ind\u00E9bito Tribut\u00E1rio com os dados do caso."

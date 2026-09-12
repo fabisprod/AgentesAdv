@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso ao TAS/CAS (Tribunal Arbitral do Esporte)"
+  short_description: "Skill jur\u00EDdica: Recurso ao TAS/CAS (Tribunal Arbitral do Esporte"
+  default_prompt: "Use $desportivo-recurso-ao-tas-cas-tribunal-arbitral-do-esporte para preparar Recurso ao TAS/CAS (Tribunal Arbitral do Esporte) com os dados do caso."

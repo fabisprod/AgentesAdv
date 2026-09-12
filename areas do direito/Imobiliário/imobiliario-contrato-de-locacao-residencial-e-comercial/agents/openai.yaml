@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Loca\u00E7\u00E3o Residencial e Comercial"
+  short_description: "Skill jur\u00EDdica: Contrato de Loca\u00E7\u00E3o Residencial e Comercial"
+  default_prompt: "Use $imobiliario-contrato-de-locacao-residencial-e-comercial para preparar Contrato de Loca\u00E7\u00E3o Residencial e Comercial com os dados do caso."

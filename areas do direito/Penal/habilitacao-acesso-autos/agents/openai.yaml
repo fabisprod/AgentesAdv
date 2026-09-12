@@ -1,0 +1,4 @@
+interface:
+  display_name: "Habilitação e Acesso aos Autos (entrada do advogado no caso)"
+  short_description: "Skill jurídica: Habilitação e Acesso aos Autos (entrada do advog"
+  default_prompt: "Use $habilitacao-acesso-autos para preparar Habilitação e Acesso aos Autos (entrada do advogado no caso) com os dados do caso."

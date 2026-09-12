@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer Jur\u00EDdico Imobili\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Parecer Jur\u00EDdico Imobili\u00E1rio"
+  default_prompt: "Use $imobiliario-parecer-juridico-imobiliario para preparar Parecer Jur\u00EDdico Imobili\u00E1rio com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Habeas Corpus nos Tribunais Superiores (STJ e STF)"
+  short_description: "Skill jurídica: Habeas Corpus nos Tribunais Superiores (STJ e ST"
+  default_prompt: "Use $hc-tribunais-superiores para preparar Habeas Corpus nos Tribunais Superiores (STJ e STF) com os dados do caso."

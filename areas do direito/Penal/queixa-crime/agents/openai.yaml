@@ -1,0 +1,4 @@
+interface:
+  display_name: "Queixa-Crime"
+  short_description: "Skill jurídica: Queixa-Crime"
+  default_prompt: "Use $queixa-crime para preparar Queixa-Crime com os dados do caso."

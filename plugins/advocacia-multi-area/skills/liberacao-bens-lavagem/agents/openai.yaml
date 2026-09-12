@@ -1,0 +1,4 @@
+interface:
+  display_name: "Liberação de Bens Constritos por Lavagem (Lei 9.613/98, art. 4º)"
+  short_description: "Skill jurídica: Liberação de Bens Constritos por Lavagem (Lei 9."
+  default_prompt: "Use $liberacao-bens-lavagem para preparar Liberação de Bens Constritos por Lavagem (Lei 9.613/98, art. 4º) com os dados do caso."

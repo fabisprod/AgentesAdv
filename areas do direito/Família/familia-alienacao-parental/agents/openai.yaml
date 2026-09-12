@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aliena\u00E7\u00E3o Parental"
+  short_description: "Skill jur\u00EDdica: Aliena\u00E7\u00E3o Parental"
+  default_prompt: "Use $familia-alienacao-parental para preparar Aliena\u00E7\u00E3o Parental com os dados do caso."

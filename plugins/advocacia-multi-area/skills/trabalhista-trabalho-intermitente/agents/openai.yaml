@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trabalho Intermitente"
+  short_description: "Skill jur\u00EDdica: Trabalho Intermitente"
+  default_prompt: "Use $trabalhista-trabalho-intermitente para preparar Trabalho Intermitente com os dados do caso."

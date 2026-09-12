@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peti\u00E7\u00E3o Inicial Trabalhista"
+  short_description: "Skill jur\u00EDdica: Peti\u00E7\u00E3o Inicial Trabalhista"
+  default_prompt: "Use $trabalhista-peticao-inicial-trabalhista para preparar Peti\u00E7\u00E3o Inicial Trabalhista com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Presta\u00E7\u00E3o de Contas de Campanha Eleitoral"
+  short_description: "Skill jur\u00EDdica: Presta\u00E7\u00E3o de Contas de Campanha Eleitoral"
+  default_prompt: "Use $eleitoral-prestacao-de-contas-de-campanha-eleitoral para preparar Presta\u00E7\u00E3o de Contas de Campanha Eleitoral com os dados do caso."

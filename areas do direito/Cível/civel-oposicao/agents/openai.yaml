@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oposi\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: Oposi\u00E7\u00E3o para uso profissional"
+  default_prompt: "Use $civel-oposicao para preparar Oposi\u00E7\u00E3o com os dados do caso."

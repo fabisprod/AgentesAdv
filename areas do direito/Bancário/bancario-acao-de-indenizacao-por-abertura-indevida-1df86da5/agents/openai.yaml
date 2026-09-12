@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Abertura Indevida de Conta (Conta Fantasma)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Abertura Indevida de Con"
+  default_prompt: "Use $bancario-acao-de-indenizacao-por-abertura-indevida-1df86da5 para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Abertura Indevida de Conta (Conta Fantasma) com os dados do caso."

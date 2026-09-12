@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dano Existencial Trabalhista"
+  short_description: "Skill jur\u00EDdica: Dano Existencial Trabalhista"
+  default_prompt: "Use $trabalhista-dano-existencial-trabalhista para preparar Dano Existencial Trabalhista com os dados do caso."

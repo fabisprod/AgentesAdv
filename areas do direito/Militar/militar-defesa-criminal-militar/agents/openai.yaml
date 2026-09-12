@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa Criminal Militar"
+  short_description: "Skill jur\u00EDdica: Defesa Criminal Militar"
+  default_prompt: "Use $militar-defesa-criminal-militar para preparar Defesa Criminal Militar com os dados do caso."

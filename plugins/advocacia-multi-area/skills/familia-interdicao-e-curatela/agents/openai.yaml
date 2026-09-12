@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interdi\u00E7\u00E3o e Curatela"
+  short_description: "Skill jur\u00EDdica: Interdi\u00E7\u00E3o e Curatela"
+  default_prompt: "Use $familia-interdicao-e-curatela para preparar Interdi\u00E7\u00E3o e Curatela com os dados do caso."

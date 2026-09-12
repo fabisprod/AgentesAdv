@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contesta\u00E7\u00E3o de A\u00E7\u00E3o Monit\u00F3ria Banc\u00E1ria"
+  short_description: "Skill jur\u00EDdica: Contesta\u00E7\u00E3o de A\u00E7\u00E3o Monit\u00F3ria Banc\u00E1ria"
+  default_prompt: "Use $bancario-contestacao-de-acao-monitoria-bancaria para preparar Contesta\u00E7\u00E3o de A\u00E7\u00E3o Monit\u00F3ria Banc\u00E1ria com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Hier\u00E1rquico em Processo Administrativo Tribut\u00E1rio Estadual"
+  short_description: "Skill jur\u00EDdica: Recurso Hier\u00E1rquico em Processo Administrativo T"
+  default_prompt: "Use $tributario-recurso-hierarquico-em-processo-adminis-06cb747c para preparar Recurso Hier\u00E1rquico em Processo Administrativo Tribut\u00E1rio Estadual com os dados do caso."

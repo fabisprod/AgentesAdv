@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oferecimento de Representação"
+  short_description: "Skill jurídica: Oferecimento de Representação"
+  default_prompt: "Use $oferecimento-de-representacao para preparar Oferecimento de Representação com os dados do caso."

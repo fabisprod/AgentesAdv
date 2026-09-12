@@ -1,0 +1,4 @@
+interface:
+  display_name: "Licenciamento Ambiental \u2014 Recurso e Impugna\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: Licenciamento Ambiental \u2014 Recurso e Impugna\u00E7\u00E3o"
+  default_prompt: "Use $ambiental-licenciamento-ambiental-recurso-e-impugnacao para preparar Licenciamento Ambiental \u2014 Recurso e Impugna\u00E7\u00E3o com os dados do caso."

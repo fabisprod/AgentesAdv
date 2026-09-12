@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Desenvolvimento de Software (SaaS)"
+  short_description: "Skill jur\u00EDdica: Contrato de Desenvolvimento de Software (SaaS)"
+  default_prompt: "Use $digital-contrato-de-desenvolvimento-de-software-saas para preparar Contrato de Desenvolvimento de Software (SaaS) com os dados do caso."

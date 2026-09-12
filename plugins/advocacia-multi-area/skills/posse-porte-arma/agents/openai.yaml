@@ -1,0 +1,4 @@
+interface:
+  display_name: "Posse e Porte de Arma (Lei 10.826/2003 — defesa nos arts. 12-18)"
+  short_description: "Skill jurídica: Posse e Porte de Arma (Lei 10.826/2003 — defesa"
+  default_prompt: "Use $posse-porte-arma para preparar Posse e Porte de Arma (Lei 10.826/2003 — defesa nos arts. 12-18) com os dados do caso."

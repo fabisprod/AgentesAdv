@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sursis da Pena (suspensão condicional da execução da pena — arts. 77 a 82 do CP)"
+  short_description: "Skill jurídica: Sursis da Pena (suspensão condicional da execuçã"
+  default_prompt: "Use $sursis-da-pena para preparar Sursis da Pena (suspensão condicional da execução da pena — arts. 77 a 82 do CP) com os dados do caso."

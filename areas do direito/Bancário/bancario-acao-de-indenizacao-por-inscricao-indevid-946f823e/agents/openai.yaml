@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Inscri\u00E7\u00E3o Indevida no SCR (Banco Central)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Inscri\u00E7\u00E3o Indevida no SC"
+  default_prompt: "Use $bancario-acao-de-indenizacao-por-inscricao-indevid-946f823e para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Inscri\u00E7\u00E3o Indevida no SCR (Banco Central) com os dados do caso."

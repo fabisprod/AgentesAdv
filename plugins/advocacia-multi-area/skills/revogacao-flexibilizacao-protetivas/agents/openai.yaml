@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revogação e Flexibilização de Medidas Protetivas (defesa do apontado agressor)"
+  short_description: "Skill jurídica: Revogação e Flexibilização de Medidas Protetivas"
+  default_prompt: "Use $revogacao-flexibilizacao-protetivas para preparar Revogação e Flexibilização de Medidas Protetivas (defesa do apontado agressor) com os dados do caso."

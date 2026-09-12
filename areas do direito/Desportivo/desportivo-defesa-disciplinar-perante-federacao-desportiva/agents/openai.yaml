@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa Disciplinar perante Federa\u00E7\u00E3o Desportiva"
+  short_description: "Skill jur\u00EDdica: Defesa Disciplinar perante Federa\u00E7\u00E3o Desportiva"
+  default_prompt: "Use $desportivo-defesa-disciplinar-perante-federacao-desportiva para preparar Defesa Disciplinar perante Federa\u00E7\u00E3o Desportiva com os dados do caso."

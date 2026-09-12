@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Especial"
+  short_description: "Skill jur\u00EDdica: Recurso Especial"
+  default_prompt: "Use $civel-recurso-especial para preparar Recurso Especial com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Licen\u00E7a de Opera\u00E7\u00E3o Corretiva e Regulariza\u00E7\u00E3o Ambiental"
+  short_description: "Skill jur\u00EDdica: Licen\u00E7a de Opera\u00E7\u00E3o Corretiva e Regulariza\u00E7\u00E3o Am"
+  default_prompt: "Use $ambiental-licenca-de-operacao-corretiva-e-regulari-eb61aa46 para preparar Licen\u00E7a de Opera\u00E7\u00E3o Corretiva e Regulariza\u00E7\u00E3o Ambiental com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos \u00E0 Execu\u00E7\u00E3o Trabalhista"
+  short_description: "Skill jur\u00EDdica: Embargos \u00E0 Execu\u00E7\u00E3o Trabalhista"
+  default_prompt: "Use $trabalhista-embargos-a-execucao-trabalhista para preparar Embargos \u00E0 Execu\u00E7\u00E3o Trabalhista com os dados do caso."

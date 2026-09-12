@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reabilitação Criminal (CP 93-95 — sigilo e efeitos da condenação)"
+  short_description: "Skill jurídica: Reabilitação Criminal (CP 93-95 — sigilo e efeit"
+  default_prompt: "Use $reabilitacao-criminal para preparar Reabilitação Criminal (CP 93-95 — sigilo e efeitos da condenação) com os dados do caso."

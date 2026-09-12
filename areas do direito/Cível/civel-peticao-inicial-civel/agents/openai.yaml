@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peti\u00E7\u00E3o Inicial C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: Peti\u00E7\u00E3o Inicial C\u00EDvel"
+  default_prompt: "Use $civel-peticao-inicial-civel para preparar Peti\u00E7\u00E3o Inicial C\u00EDvel com os dados do caso."

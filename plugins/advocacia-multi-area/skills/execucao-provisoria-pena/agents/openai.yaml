@@ -1,0 +1,4 @@
+interface:
+  display_name: "Execução Provisória da Pena (guia provisória e benefícios antes do trânsito)"
+  short_description: "Skill jurídica: Execução Provisória da Pena (guia provisória e b"
+  default_prompt: "Use $execucao-provisoria-pena para preparar Execução Provisória da Pena (guia provisória e benefícios antes do trânsito) com os dados do caso."

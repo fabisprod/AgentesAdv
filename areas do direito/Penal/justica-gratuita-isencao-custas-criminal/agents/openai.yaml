@@ -1,0 +1,4 @@
+interface:
+  display_name: "Justiça Gratuita e Isenção de Custas (processo penal)"
+  short_description: "Skill jurídica: Justiça Gratuita e Isenção de Custas (processo p"
+  default_prompt: "Use $justica-gratuita-isencao-custas-criminal para preparar Justiça Gratuita e Isenção de Custas (processo penal) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regulamenta\u00E7\u00E3o de Visitas"
+  short_description: "Skill jur\u00EDdica: Regulamenta\u00E7\u00E3o de Visitas"
+  default_prompt: "Use $familia-regulamentacao-de-visitas para preparar Regulamenta\u00E7\u00E3o de Visitas com os dados do caso."

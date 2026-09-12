@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso ao STJD"
+  short_description: "Skill jur\u00EDdica: Recurso ao STJD"
+  default_prompt: "Use $desportivo-recurso-ao-stjd para preparar Recurso ao STJD com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investiga\u00E7\u00E3o de Paternidade"
+  short_description: "Skill jur\u00EDdica: Investiga\u00E7\u00E3o de Paternidade"
+  default_prompt: "Use $familia-investigacao-de-paternidade para preparar Investiga\u00E7\u00E3o de Paternidade com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Parecer Tribut\u00E1rio"
+  default_prompt: "Use $tributario-parecer-tributario para preparar Parecer Tribut\u00E1rio com os dados do caso."

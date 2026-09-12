@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contesta\u00E7\u00E3o Trabalhista"
+  short_description: "Skill jur\u00EDdica: Contesta\u00E7\u00E3o Trabalhista"
+  default_prompt: "Use $trabalhista-contestacao-trabalhista para preparar Contesta\u00E7\u00E3o Trabalhista com os dados do caso."

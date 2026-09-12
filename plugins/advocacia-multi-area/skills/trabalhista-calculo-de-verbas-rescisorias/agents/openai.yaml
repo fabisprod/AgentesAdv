@@ -1,0 +1,4 @@
+interface:
+  display_name: "C\u00E1lculo de Verbas Rescis\u00F3rias"
+  short_description: "Skill jur\u00EDdica: C\u00E1lculo de Verbas Rescis\u00F3rias"
+  default_prompt: "Use $trabalhista-calculo-de-verbas-rescisorias para preparar C\u00E1lculo de Verbas Rescis\u00F3rias com os dados do caso."

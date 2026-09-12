@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reintegra\u00E7\u00E3o de Posse Rural"
+  short_description: "Skill jur\u00EDdica: Reintegra\u00E7\u00E3o de Posse Rural"
+  default_prompt: "Use $agrario-reintegracao-de-posse-rural para preparar Reintegra\u00E7\u00E3o de Posse Rural com os dados do caso."

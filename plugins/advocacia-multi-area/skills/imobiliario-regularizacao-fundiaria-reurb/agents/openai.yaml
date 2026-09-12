@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regulariza\u00E7\u00E3o Fundi\u00E1ria (REURB)"
+  short_description: "Skill jur\u00EDdica: Regulariza\u00E7\u00E3o Fundi\u00E1ria (REURB)"
+  default_prompt: "Use $imobiliario-regularizacao-fundiaria-reurb para preparar Regulariza\u00E7\u00E3o Fundi\u00E1ria (REURB) com os dados do caso."

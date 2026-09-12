@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rescis\u00E3o de Contrato Desportivo"
+  short_description: "Skill jur\u00EDdica: Rescis\u00E3o de Contrato Desportivo"
+  default_prompt: "Use $desportivo-rescisao-de-contrato-desportivo para preparar Rescis\u00E3o de Contrato Desportivo com os dados do caso."

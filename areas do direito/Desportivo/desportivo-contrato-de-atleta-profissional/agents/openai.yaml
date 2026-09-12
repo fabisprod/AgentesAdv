@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Atleta Profissional"
+  short_description: "Skill jur\u00EDdica: Contrato de Atleta Profissional"
+  default_prompt: "Use $desportivo-contrato-de-atleta-profissional para preparar Contrato de Atleta Profissional com os dados do caso."

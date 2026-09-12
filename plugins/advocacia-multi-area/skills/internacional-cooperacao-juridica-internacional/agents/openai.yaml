@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coopera\u00E7\u00E3o Jur\u00EDdica Internacional"
+  short_description: "Skill jur\u00EDdica: Coopera\u00E7\u00E3o Jur\u00EDdica Internacional"
+  default_prompt: "Use $internacional-cooperacao-juridica-internacional para preparar Coopera\u00E7\u00E3o Jur\u00EDdica Internacional com os dados do caso."

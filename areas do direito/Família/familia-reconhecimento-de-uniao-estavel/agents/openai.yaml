@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reconhecimento de Uni\u00E3o Est\u00E1vel"
+  short_description: "Skill jur\u00EDdica: Reconhecimento de Uni\u00E3o Est\u00E1vel"
+  default_prompt: "Use $familia-reconhecimento-de-uniao-estavel para preparar Reconhecimento de Uni\u00E3o Est\u00E1vel com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato DPA com Operador de Dados"
+  short_description: "Skill jur\u00EDdica: Contrato DPA com Operador de Dados"
+  default_prompt: "Use $digital-contrato-dpa-com-operador-de-dados para preparar Contrato DPA com Operador de Dados com os dados do caso."

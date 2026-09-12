@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Agencia e Distribuicao"
+  short_description: "Skill jur\u00EDdica: Contrato de Agencia e Distribuicao"
+  default_prompt: "Use $contratos-contrato-de-agencia-e-distribuicao para preparar Contrato de Agencia e Distribuicao com os dados do caso."

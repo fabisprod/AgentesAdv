@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exce\u00E7\u00E3o de Pr\u00E9-Executividade"
+  short_description: "Skill jur\u00EDdica: Exce\u00E7\u00E3o de Pr\u00E9-Executividade"
+  default_prompt: "Use $civel-excecao-de-pre-executividade para preparar Exce\u00E7\u00E3o de Pr\u00E9-Executividade com os dados do caso."

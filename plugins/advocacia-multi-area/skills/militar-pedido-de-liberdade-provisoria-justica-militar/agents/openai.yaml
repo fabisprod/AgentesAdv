@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pedido de Liberdade Provis\u00F3ria (Justi\u00E7a Militar)"
+  short_description: "Skill jur\u00EDdica: Pedido de Liberdade Provis\u00F3ria (Justi\u00E7a Militar)"
+  default_prompt: "Use $militar-pedido-de-liberdade-provisoria-justica-militar para preparar Pedido de Liberdade Provis\u00F3ria (Justi\u00E7a Militar) com os dados do caso."

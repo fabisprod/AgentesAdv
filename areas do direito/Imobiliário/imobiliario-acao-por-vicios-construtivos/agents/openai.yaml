@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o por V\u00EDcios Construtivos"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o por V\u00EDcios Construtivos"
+  default_prompt: "Use $imobiliario-acao-por-vicios-construtivos para preparar A\u00E7\u00E3o por V\u00EDcios Construtivos com os dados do caso."

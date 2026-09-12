@@ -1,0 +1,6 @@
+---
+interface:
+  display_name: Orquestrador Jurídico Geral
+  short_description: Escolhe a skill jurídica adequada com gates de segurança.
+  default_prompt: Use $orquestrador-juridico-geral para identificar a skill adequada
+    e orientar a próxima ação.

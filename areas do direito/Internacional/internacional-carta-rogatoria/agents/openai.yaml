@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carta Rogat\u00F3ria"
+  short_description: "Skill jur\u00EDdica: Carta Rogat\u00F3ria"
+  default_prompt: "Use $internacional-carta-rogatoria para preparar Carta Rogat\u00F3ria com os dados do caso."

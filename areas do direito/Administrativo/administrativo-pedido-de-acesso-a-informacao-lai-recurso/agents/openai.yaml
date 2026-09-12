@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pedido de Acesso \u00E0 Informa\u00E7\u00E3o (LAI) + Recurso"
+  short_description: "Skill jur\u00EDdica: Pedido de Acesso \u00E0 Informa\u00E7\u00E3o (LAI) + Recurso"
+  default_prompt: "Use $administrativo-pedido-de-acesso-a-informacao-lai-recurso para preparar Pedido de Acesso \u00E0 Informa\u00E7\u00E3o (LAI) + Recurso com os dados do caso."

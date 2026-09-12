@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso ao Banco Central (Reclama\u00E7\u00E3o Formal)"
+  short_description: "Skill jur\u00EDdica: Recurso ao Banco Central (Reclama\u00E7\u00E3o Formal)"
+  default_prompt: "Use $bancario-recurso-ao-banco-central-reclamacao-formal para preparar Recurso ao Banco Central (Reclama\u00E7\u00E3o Formal) com os dados do caso."

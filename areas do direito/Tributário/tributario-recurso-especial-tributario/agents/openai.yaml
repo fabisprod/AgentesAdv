@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Especial Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Recurso Especial Tribut\u00E1rio"
+  default_prompt: "Use $tributario-recurso-especial-tributario para preparar Recurso Especial Tribut\u00E1rio com os dados do caso."

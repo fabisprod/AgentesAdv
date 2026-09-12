@@ -1,0 +1,4 @@
+interface:
+  display_name: "Substabelecimento"
+  short_description: "Skill jur\u00EDdica: Substabelecimento"
+  default_prompt: "Use $civel-substabelecimento para preparar Substabelecimento com os dados do caso."

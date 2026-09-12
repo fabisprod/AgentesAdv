@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa nas contravenções penais (LCP — Decreto-Lei 3.688/1941)"
+  short_description: "Skill jurídica: Defesa nas contravenções penais (LCP — Decreto-L"
+  default_prompt: "Use $contravencoes-penais para preparar Defesa nas contravenções penais (LCP — Decreto-Lei 3.688/1941) com os dados do caso."

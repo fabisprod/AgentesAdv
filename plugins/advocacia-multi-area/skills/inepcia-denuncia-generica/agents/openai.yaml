@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inépcia da Denúncia Genérica (crimes societários)"
+  short_description: "Skill jurídica: Inépcia da Denúncia Genérica (crimes societários"
+  default_prompt: "Use $inepcia-denuncia-generica para preparar Inépcia da Denúncia Genérica (crimes societários) com os dados do caso."

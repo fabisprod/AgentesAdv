@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notifica\u00E7\u00E3o Extrajudicial ao Plano de Sa\u00FAde"
+  short_description: "Skill jur\u00EDdica: Notifica\u00E7\u00E3o Extrajudicial ao Plano de Sa\u00FAde"
+  default_prompt: "Use $saude-notificacao-extrajudicial-ao-plano-de-saude para preparar Notifica\u00E7\u00E3o Extrajudicial ao Plano de Sa\u00FAde com os dados do caso."

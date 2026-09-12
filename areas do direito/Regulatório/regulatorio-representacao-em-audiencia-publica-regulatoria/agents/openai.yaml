@@ -1,0 +1,4 @@
+interface:
+  display_name: "Representa\u00E7\u00E3o em Audi\u00EAncia P\u00FAblica Regulat\u00F3ria"
+  short_description: "Skill jur\u00EDdica: Representa\u00E7\u00E3o em Audi\u00EAncia P\u00FAblica Regulat\u00F3ria"
+  default_prompt: "Use $regulatorio-representacao-em-audiencia-publica-regulatoria para preparar Representa\u00E7\u00E3o em Audi\u00EAncia P\u00FAblica Regulat\u00F3ria com os dados do caso."

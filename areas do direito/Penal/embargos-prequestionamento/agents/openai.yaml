@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos de Declaração com Fins de Prequestionamento"
+  short_description: "Skill jurídica: Embargos de Declaração com Fins de Prequestionam"
+  default_prompt: "Use $embargos-prequestionamento para preparar Embargos de Declaração com Fins de Prequestionamento com os dados do caso."

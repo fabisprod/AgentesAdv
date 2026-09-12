@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apostilamento e Legaliza\u00E7\u00E3o de Documentos"
+  short_description: "Skill jur\u00EDdica: Apostilamento e Legaliza\u00E7\u00E3o de Documentos"
+  default_prompt: "Use $internacional-apostilamento-e-legalizacao-de-documentos para preparar Apostilamento e Legaliza\u00E7\u00E3o de Documentos com os dados do caso."

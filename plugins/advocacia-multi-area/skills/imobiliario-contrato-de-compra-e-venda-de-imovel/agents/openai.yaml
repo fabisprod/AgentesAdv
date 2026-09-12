@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Compra e Venda de Im\u00F3vel"
+  short_description: "Skill jur\u00EDdica: Contrato de Compra e Venda de Im\u00F3vel"
+  default_prompt: "Use $imobiliario-contrato-de-compra-e-venda-de-imovel para preparar Contrato de Compra e Venda de Im\u00F3vel com os dados do caso."

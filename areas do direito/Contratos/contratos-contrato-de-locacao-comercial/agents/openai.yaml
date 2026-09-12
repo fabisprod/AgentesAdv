@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Loca\u00E7\u00E3o Comercial"
+  short_description: "Skill jur\u00EDdica: Contrato de Loca\u00E7\u00E3o Comercial"
+  default_prompt: "Use $contratos-contrato-de-locacao-comercial para preparar Contrato de Loca\u00E7\u00E3o Comercial com os dados do caso."

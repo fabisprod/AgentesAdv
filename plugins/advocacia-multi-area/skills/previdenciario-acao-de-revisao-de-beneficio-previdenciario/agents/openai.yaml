@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Revisao de Beneficio Previdenciario"
+  short_description: "Skill jur\u00EDdica: Acao de Revisao de Beneficio Previdenciario"
+  default_prompt: "Use $previdenciario-acao-de-revisao-de-beneficio-previdenciario para preparar Acao de Revisao de Beneficio Previdenciario com os dados do caso."

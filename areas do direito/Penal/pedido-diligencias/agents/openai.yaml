@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pedido de Diligências Complementares (art. 402 do CPP)"
+  short_description: "Skill jurídica: Pedido de Diligências Complementares (art. 402 d"
+  default_prompt: "Use $pedido-diligencias para preparar Pedido de Diligências Complementares (art. 402 do CPP) com os dados do caso."

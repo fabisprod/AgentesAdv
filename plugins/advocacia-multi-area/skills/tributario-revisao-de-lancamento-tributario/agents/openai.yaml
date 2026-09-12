@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revis\u00E3o de Lan\u00E7amento Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Revis\u00E3o de Lan\u00E7amento Tribut\u00E1rio"
+  default_prompt: "Use $tributario-revisao-de-lancamento-tributario para preparar Revis\u00E3o de Lan\u00E7amento Tribut\u00E1rio com os dados do caso."

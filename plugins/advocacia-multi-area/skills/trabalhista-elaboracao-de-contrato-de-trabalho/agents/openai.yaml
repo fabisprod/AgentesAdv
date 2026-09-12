@@ -1,0 +1,4 @@
+interface:
+  display_name: "Elabora\u00E7\u00E3o de Contrato de Trabalho"
+  short_description: "Skill jur\u00EDdica: Elabora\u00E7\u00E3o de Contrato de Trabalho"
+  default_prompt: "Use $trabalhista-elaboracao-de-contrato-de-trabalho para preparar Elabora\u00E7\u00E3o de Contrato de Trabalho com os dados do caso."

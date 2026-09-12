@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato Internacional"
+  short_description: "Skill jur\u00EDdica: Contrato Internacional"
+  default_prompt: "Use $internacional-contrato-internacional para preparar Contrato Internacional com os dados do caso."

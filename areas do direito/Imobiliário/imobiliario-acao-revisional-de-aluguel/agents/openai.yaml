@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Revisional de Aluguel"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Revisional de Aluguel"
+  default_prompt: "Use $imobiliario-acao-revisional-de-aluguel para preparar A\u00E7\u00E3o Revisional de Aluguel com os dados do caso."

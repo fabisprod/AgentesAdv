@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acesso aos Autos de Investigação (SV 14 e Reclamação ao STF)"
+  short_description: "Skill jurídica: Acesso aos Autos de Investigação (SV 14 e Reclam"
+  default_prompt: "Use $acesso-autos-investigacao para preparar Acesso aos Autos de Investigação (SV 14 e Reclamação ao STF) com os dados do caso."

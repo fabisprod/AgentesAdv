@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso de Auto de Infra\u00E7\u00E3o Administrativo"
+  short_description: "Skill jur\u00EDdica: Recurso de Auto de Infra\u00E7\u00E3o Administrativo"
+  default_prompt: "Use $administrativo-recurso-de-auto-de-infracao-administrativo para preparar Recurso de Auto de Infra\u00E7\u00E3o Administrativo com os dados do caso."

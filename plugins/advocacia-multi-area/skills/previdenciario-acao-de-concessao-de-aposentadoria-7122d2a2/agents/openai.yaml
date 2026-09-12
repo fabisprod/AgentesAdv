@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Concessao de Aposentadoria por Idade Urbana"
+  short_description: "Skill jur\u00EDdica: Acao de Concessao de Aposentadoria por Idade Urb"
+  default_prompt: "Use $previdenciario-acao-de-concessao-de-aposentadoria-7122d2a2 para preparar Acao de Concessao de Aposentadoria por Idade Urbana com os dados do caso."

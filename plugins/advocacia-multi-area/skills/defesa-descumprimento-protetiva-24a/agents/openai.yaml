@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa no crime de descumprimento de protetiva (art. 24-A da Lei 11.340/2006)"
+  short_description: "Skill jurídica: Defesa no crime de descumprimento de protetiva ("
+  default_prompt: "Use $defesa-descumprimento-protetiva-24a para preparar Defesa no crime de descumprimento de protetiva (art. 24-A da Lei 11.340/2006) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pedido de Habilita\u00E7\u00E3o ou Licen\u00E7a perante Ag\u00EAncia Reguladora"
+  short_description: "Skill jur\u00EDdica: Pedido de Habilita\u00E7\u00E3o ou Licen\u00E7a perante Ag\u00EAncia"
+  default_prompt: "Use $regulatorio-pedido-de-habilitacao-ou-licenca-peran-02ef8c81 para preparar Pedido de Habilita\u00E7\u00E3o ou Licen\u00E7a perante Ag\u00EAncia Reguladora com os dados do caso."

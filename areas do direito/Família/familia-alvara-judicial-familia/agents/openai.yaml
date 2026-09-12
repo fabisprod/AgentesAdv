@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alvar\u00E1 Judicial (Fam\u00EDlia)"
+  short_description: "Skill jur\u00EDdica: Alvar\u00E1 Judicial (Fam\u00EDlia)"
+  default_prompt: "Use $familia-alvara-judicial-familia para preparar Alvar\u00E1 Judicial (Fam\u00EDlia) com os dados do caso."

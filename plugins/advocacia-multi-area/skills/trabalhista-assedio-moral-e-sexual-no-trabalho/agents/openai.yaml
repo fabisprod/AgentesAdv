@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ass\u00E9dio Moral e Sexual no Trabalho"
+  short_description: "Skill jur\u00EDdica: Ass\u00E9dio Moral e Sexual no Trabalho"
+  default_prompt: "Use $trabalhista-assedio-moral-e-sexual-no-trabalho para preparar Ass\u00E9dio Moral e Sexual no Trabalho com os dados do caso."

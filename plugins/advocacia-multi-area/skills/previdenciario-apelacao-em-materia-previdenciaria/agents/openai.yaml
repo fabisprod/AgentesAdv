@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apela\u00E7\u00E3o em Mat\u00E9ria Previdenci\u00E1ria"
+  short_description: "Skill jur\u00EDdica: Apela\u00E7\u00E3o em Mat\u00E9ria Previdenci\u00E1ria"
+  default_prompt: "Use $previdenciario-apelacao-em-materia-previdenciaria para preparar Apela\u00E7\u00E3o em Mat\u00E9ria Previdenci\u00E1ria com os dados do caso."

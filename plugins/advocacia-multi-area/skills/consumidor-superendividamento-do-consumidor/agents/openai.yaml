@@ -1,0 +1,4 @@
+interface:
+  display_name: "Superendividamento do Consumidor"
+  short_description: "Skill jur\u00EDdica: Superendividamento do Consumidor"
+  default_prompt: "Use $consumidor-superendividamento-do-consumidor para preparar Superendividamento do Consumidor com os dados do caso."

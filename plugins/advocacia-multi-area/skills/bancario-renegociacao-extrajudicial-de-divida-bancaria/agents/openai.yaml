@@ -1,0 +1,4 @@
+interface:
+  display_name: "Renegocia\u00E7\u00E3o Extrajudicial de D\u00EDvida Banc\u00E1ria"
+  short_description: "Skill jur\u00EDdica: Renegocia\u00E7\u00E3o Extrajudicial de D\u00EDvida Banc\u00E1ria"
+  default_prompt: "Use $bancario-renegociacao-extrajudicial-de-divida-bancaria para preparar Renegocia\u00E7\u00E3o Extrajudicial de D\u00EDvida Banc\u00E1ria com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indeniza\u00E7\u00E3o por Inscri\u00E7\u00E3o Indevida em Cadastros de Inadimplentes"
+  short_description: "Skill jur\u00EDdica: Indeniza\u00E7\u00E3o por Inscri\u00E7\u00E3o Indevida em Cadastros"
+  default_prompt: "Use $bancario-indenizacao-por-inscricao-indevida-em-cad-103f3adb para preparar Indeniza\u00E7\u00E3o por Inscri\u00E7\u00E3o Indevida em Cadastros de Inadimplentes com os dados do caso."

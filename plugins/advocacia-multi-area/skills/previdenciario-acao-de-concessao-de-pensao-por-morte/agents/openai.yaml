@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Concessao de Pensao por Morte"
+  short_description: "Skill jur\u00EDdica: Acao de Concessao de Pensao por Morte"
+  default_prompt: "Use $previdenciario-acao-de-concessao-de-pensao-por-morte para preparar Acao de Concessao de Pensao por Morte com os dados do caso."

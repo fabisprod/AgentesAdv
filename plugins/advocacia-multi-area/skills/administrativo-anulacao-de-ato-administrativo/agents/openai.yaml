@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anula\u00E7\u00E3o de Ato Administrativo"
+  short_description: "Skill jur\u00EDdica: Anula\u00E7\u00E3o de Ato Administrativo"
+  default_prompt: "Use $administrativo-anulacao-de-ato-administrativo para preparar Anula\u00E7\u00E3o de Ato Administrativo com os dados do caso."

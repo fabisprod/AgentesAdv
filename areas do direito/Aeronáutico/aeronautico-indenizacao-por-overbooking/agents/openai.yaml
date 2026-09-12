@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indeniza\u00E7\u00E3o por Overbooking"
+  short_description: "Skill jur\u00EDdica: Indeniza\u00E7\u00E3o por Overbooking"
+  default_prompt: "Use $aeronautico-indenizacao-por-overbooking para preparar Indeniza\u00E7\u00E3o por Overbooking com os dados do caso."

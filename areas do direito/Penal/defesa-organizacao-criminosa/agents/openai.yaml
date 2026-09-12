@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa na Imputação de Organização Criminosa (Lei 12.850/2013, art. 2º)"
+  short_description: "Skill jurídica: Defesa na Imputação de Organização Criminosa (Le"
+  default_prompt: "Use $defesa-organizacao-criminosa para preparar Defesa na Imputação de Organização Criminosa (Lei 12.850/2013, art. 2º) com os dados do caso."

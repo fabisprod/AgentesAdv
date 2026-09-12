@@ -1,0 +1,4 @@
+interface:
+  display_name: "V\u00EDcio de Produto ou Servi\u00E7o"
+  short_description: "Skill jur\u00EDdica: V\u00EDcio de Produto ou Servi\u00E7o"
+  default_prompt: "Use $consumidor-vicio-de-produto-ou-servico para preparar V\u00EDcio de Produto ou Servi\u00E7o com os dados do caso."

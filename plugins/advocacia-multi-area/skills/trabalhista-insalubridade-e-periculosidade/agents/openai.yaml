@@ -1,0 +1,4 @@
+interface:
+  display_name: "Insalubridade e Periculosidade"
+  short_description: "Skill jur\u00EDdica: Insalubridade e Periculosidade"
+  default_prompt: "Use $trabalhista-insalubridade-e-periculosidade para preparar Insalubridade e Periculosidade com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indeniza\u00E7\u00E3o por Erro M\u00E9dico"
+  short_description: "Skill jur\u00EDdica: Indeniza\u00E7\u00E3o por Erro M\u00E9dico"
+  default_prompt: "Use $saude-indenizacao-por-erro-medico para preparar Indeniza\u00E7\u00E3o por Erro M\u00E9dico com os dados do caso."

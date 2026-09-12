@@ -1,0 +1,4 @@
+interface:
+  display_name: "Busca e Apreens\u00E3o de Menor"
+  short_description: "Skill jur\u00EDdica: Busca e Apreens\u00E3o de Menor"
+  default_prompt: "Use $familia-busca-e-apreensao-de-menor para preparar Busca e Apreens\u00E3o de Menor com os dados do caso."

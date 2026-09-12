@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Medida Cautelar Fiscal"
+  short_description: "Skill jur\u00EDdica: Defesa em Medida Cautelar Fiscal"
+  default_prompt: "Use $tributario-defesa-em-medida-cautelar-fiscal para preparar Defesa em Medida Cautelar Fiscal com os dados do caso."

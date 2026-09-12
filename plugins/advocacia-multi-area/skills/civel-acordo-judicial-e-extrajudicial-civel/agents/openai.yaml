@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acordo Judicial e Extrajudicial C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: Acordo Judicial e Extrajudicial C\u00EDvel"
+  default_prompt: "Use $civel-acordo-judicial-e-extrajudicial-civel para preparar Acordo Judicial e Extrajudicial C\u00EDvel com os dados do caso."

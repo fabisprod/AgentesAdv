@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interpelação Judicial / Pedido de Explicações (CP art. 144)"
+  short_description: "Skill jurídica: Interpelação Judicial / Pedido de Explicações (C"
+  default_prompt: "Use $interpelacao-judicial-pedido-explicacoes para preparar Interpelação Judicial / Pedido de Explicações (CP art. 144) com os dados do caso."

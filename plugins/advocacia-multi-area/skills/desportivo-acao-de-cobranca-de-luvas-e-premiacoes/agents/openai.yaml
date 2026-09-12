@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Cobran\u00E7a de Luvas e Premia\u00E7\u00F5es"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Cobran\u00E7a de Luvas e Premia\u00E7\u00F5es"
+  default_prompt: "Use $desportivo-acao-de-cobranca-de-luvas-e-premiacoes para preparar A\u00E7\u00E3o de Cobran\u00E7a de Luvas e Premia\u00E7\u00F5es com os dados do caso."

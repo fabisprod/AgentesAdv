@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Prestacao de Servicos"
+  short_description: "Skill jur\u00EDdica: Contrato de Prestacao de Servicos"
+  default_prompt: "Use $contratos-contrato-de-prestacao-de-servicos para preparar Contrato de Prestacao de Servicos com os dados do caso."

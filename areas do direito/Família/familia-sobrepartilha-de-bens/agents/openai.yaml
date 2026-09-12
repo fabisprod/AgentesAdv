@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sobrepartilha de Bens"
+  short_description: "Skill jur\u00EDdica: Sobrepartilha de Bens"
+  default_prompt: "Use $familia-sobrepartilha-de-bens para preparar Sobrepartilha de Bens com os dados do caso."

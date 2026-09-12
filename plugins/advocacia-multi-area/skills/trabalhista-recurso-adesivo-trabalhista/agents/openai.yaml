@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Adesivo Trabalhista"
+  short_description: "Skill jur\u00EDdica: Recurso Adesivo Trabalhista"
+  default_prompt: "Use $trabalhista-recurso-adesivo-trabalhista para preparar Recurso Adesivo Trabalhista com os dados do caso."

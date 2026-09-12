@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revis\u00E3o Criminal Militar (Revis\u00E3o de Senten\u00E7a Condenat\u00F3ria)"
+  short_description: "Skill jur\u00EDdica: Revis\u00E3o Criminal Militar (Revis\u00E3o de Senten\u00E7a Co"
+  default_prompt: "Use $militar-revisao-criminal-militar-revisao-de-senten-3eff862a para preparar Revis\u00E3o Criminal Militar (Revis\u00E3o de Senten\u00E7a Condenat\u00F3ria) com os dados do caso."

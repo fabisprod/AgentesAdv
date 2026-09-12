@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso de Revista ao TST"
+  short_description: "Skill jur\u00EDdica: Recurso de Revista ao TST"
+  default_prompt: "Use $trabalhista-recurso-de-revista-ao-tst para preparar Recurso de Revista ao TST com os dados do caso."

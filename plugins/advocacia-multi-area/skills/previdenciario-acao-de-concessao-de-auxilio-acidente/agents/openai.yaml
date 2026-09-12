@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Concessao de Auxilio-Acidente"
+  short_description: "Skill jur\u00EDdica: Acao de Concessao de Auxilio-Acidente"
+  default_prompt: "Use $previdenciario-acao-de-concessao-de-auxilio-acidente para preparar Acao de Concessao de Auxilio-Acidente com os dados do caso."

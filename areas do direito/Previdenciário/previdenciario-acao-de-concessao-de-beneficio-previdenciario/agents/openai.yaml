@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Concessao de Beneficio Previdenciario"
+  short_description: "Skill jur\u00EDdica: Acao de Concessao de Beneficio Previdenciario"
+  default_prompt: "Use $previdenciario-acao-de-concessao-de-beneficio-previdenciario para preparar Acao de Concessao de Beneficio Previdenciario com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prisão Domiciliar Substitutiva da Preventiva (CPP, arts. 317 a 318-B)"
+  short_description: "Skill jurídica: Prisão Domiciliar Substitutiva da Preventiva (CP"
+  default_prompt: "Use $prisao-domiciliar para preparar Prisão Domiciliar Substitutiva da Preventiva (CPP, arts. 317 a 318-B) com os dados do caso."

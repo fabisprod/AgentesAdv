@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Processo Administrativo no PROCON"
+  short_description: "Skill jur\u00EDdica: Defesa em Processo Administrativo no PROCON"
+  default_prompt: "Use $consumidor-defesa-em-processo-administrativo-no-procon para preparar Defesa em Processo Administrativo no PROCON com os dados do caso."

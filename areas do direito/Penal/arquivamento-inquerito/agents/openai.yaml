@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arquivamento do Inquérito Policial (art. 28 do CPP)"
+  short_description: "Skill jurídica: Arquivamento do Inquérito Policial (art. 28 do C"
+  default_prompt: "Use $arquivamento-inquerito para preparar Arquivamento do Inquérito Policial (art. 28 do CPP) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "BPC/LOAS \u2014 Beneficio de Prestacao Continuada"
+  short_description: "Skill jur\u00EDdica: BPC/LOAS \u2014 Beneficio de Prestacao Continuada"
+  default_prompt: "Use $previdenciario-bpc-loas-beneficio-de-prestacao-continuada para preparar BPC/LOAS \u2014 Beneficio de Prestacao Continuada com os dados do caso."

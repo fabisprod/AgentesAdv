@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o contra Companhia A\u00E9rea por Escala Perdida (Conex\u00E3o Perdida)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o contra Companhia A\u00E9rea por Escala Perdida ("
+  default_prompt: "Use $aeronautico-acao-contra-companhia-aerea-por-escala-14a63526 para preparar A\u00E7\u00E3o contra Companhia A\u00E9rea por Escala Perdida (Conex\u00E3o Perdida) com os dados do caso."

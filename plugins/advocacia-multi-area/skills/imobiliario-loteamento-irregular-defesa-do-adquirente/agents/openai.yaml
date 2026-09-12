@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loteamento Irregular \u2014 Defesa do Adquirente"
+  short_description: "Skill jur\u00EDdica: Loteamento Irregular \u2014 Defesa do Adquirente"
+  default_prompt: "Use $imobiliario-loteamento-irregular-defesa-do-adquirente para preparar Loteamento Irregular \u2014 Defesa do Adquirente com os dados do caso."

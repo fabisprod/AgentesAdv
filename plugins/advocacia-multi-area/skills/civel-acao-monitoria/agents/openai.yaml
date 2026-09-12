@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Monit\u00F3ria"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Monit\u00F3ria"
+  default_prompt: "Use $civel-acao-monitoria para preparar A\u00E7\u00E3o Monit\u00F3ria com os dados do caso."

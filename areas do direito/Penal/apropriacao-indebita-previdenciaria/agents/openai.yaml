@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Apropriação Indébita Previdenciária (CP 168-A) e Sonegação de Contribuição (CP 337-A)"
+  short_description: "Skill jurídica: Defesa em Apropriação Indébita Previdenciária (C"
+  default_prompt: "Use $apropriacao-indebita-previdenciaria para preparar Defesa em Apropriação Indébita Previdenciária (CP 168-A) e Sonegação de Contribuição (CP 337-A) com os dados do caso."

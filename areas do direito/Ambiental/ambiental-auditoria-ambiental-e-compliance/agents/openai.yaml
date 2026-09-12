@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auditoria Ambiental e Compliance"
+  short_description: "Skill jur\u00EDdica: Auditoria Ambiental e Compliance"
+  default_prompt: "Use $ambiental-auditoria-ambiental-e-compliance para preparar Auditoria Ambiental e Compliance com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Obriga\u00E7\u00E3o de Fazer ou N\u00E3o Fazer"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Obriga\u00E7\u00E3o de Fazer ou N\u00E3o Fazer"
+  default_prompt: "Use $civel-acao-de-obrigacao-de-fazer-ou-nao-fazer para preparar A\u00E7\u00E3o de Obriga\u00E7\u00E3o de Fazer ou N\u00E3o Fazer com os dados do caso."

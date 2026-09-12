@@ -1,0 +1,4 @@
+interface:
+  display_name: "Denúncia (peça acusatória do Ministério Público — CPP, art. 41)"
+  short_description: "Skill jurídica: Denúncia (peça acusatória do Ministério Público"
+  default_prompt: "Use $denuncia-mp para preparar Denúncia (peça acusatória do Ministério Público — CPP, art. 41) com os dados do caso."

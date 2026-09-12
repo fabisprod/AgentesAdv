@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notifica\u00E7\u00E3o Imobili\u00E1ria Extrajudicial"
+  short_description: "Skill jur\u00EDdica: Notifica\u00E7\u00E3o Imobili\u00E1ria Extrajudicial"
+  default_prompt: "Use $imobiliario-notificacao-imobiliaria-extrajudicial para preparar Notifica\u00E7\u00E3o Imobili\u00E1ria Extrajudicial com os dados do caso."

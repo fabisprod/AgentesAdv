@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso ao CRPS \u2014 Recurso Administrativo Previdenciario"
+  short_description: "Skill jur\u00EDdica: Recurso ao CRPS \u2014 Recurso Administrativo Previde"
+  default_prompt: "Use $previdenciario-recurso-ao-crps-recurso-administrat-868fb1ae para preparar Recurso ao CRPS \u2014 Recurso Administrativo Previdenciario com os dados do caso."

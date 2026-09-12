@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugna\u00E7\u00E3o \u00E0 Per\u00EDcia M\u00E9dica"
+  short_description: "Skill jur\u00EDdica: Impugna\u00E7\u00E3o \u00E0 Per\u00EDcia M\u00E9dica"
+  default_prompt: "Use $previdenciario-impugnacao-a-pericia-medica para preparar Impugna\u00E7\u00E3o \u00E0 Per\u00EDcia M\u00E9dica com os dados do caso."

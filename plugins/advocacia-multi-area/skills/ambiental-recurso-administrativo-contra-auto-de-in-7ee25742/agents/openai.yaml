@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Administrativo contra Auto de Infra\u00E7\u00E3o do IBAMA"
+  short_description: "Skill jur\u00EDdica: Recurso Administrativo contra Auto de Infra\u00E7\u00E3o d"
+  default_prompt: "Use $ambiental-recurso-administrativo-contra-auto-de-in-7ee25742 para preparar Recurso Administrativo contra Auto de Infra\u00E7\u00E3o do IBAMA com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dissolucao De Sociedade"
+  short_description: "Skill jur\u00EDdica: Dissolucao De Sociedade"
+  default_prompt: "Use $societario-dissolucao-de-sociedade para preparar Dissolucao De Sociedade com os dados do caso."

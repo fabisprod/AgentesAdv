@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Auto de Infra\u00E7\u00E3o Ambiental"
+  short_description: "Skill jur\u00EDdica: Defesa em Auto de Infra\u00E7\u00E3o Ambiental"
+  default_prompt: "Use $ambiental-defesa-em-auto-de-infracao-ambiental para preparar Defesa em Auto de Infra\u00E7\u00E3o Ambiental com os dados do caso."

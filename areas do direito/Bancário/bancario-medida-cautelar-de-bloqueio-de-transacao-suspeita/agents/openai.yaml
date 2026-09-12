@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medida Cautelar de Bloqueio de Transa\u00E7\u00E3o Suspeita"
+  short_description: "Skill jur\u00EDdica: Medida Cautelar de Bloqueio de Transa\u00E7\u00E3o Suspeit"
+  default_prompt: "Use $bancario-medida-cautelar-de-bloqueio-de-transacao-suspeita para preparar Medida Cautelar de Bloqueio de Transa\u00E7\u00E3o Suspeita com os dados do caso."

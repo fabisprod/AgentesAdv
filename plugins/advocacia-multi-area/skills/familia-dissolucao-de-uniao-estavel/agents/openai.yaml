@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dissolu\u00E7\u00E3o de Uni\u00E3o Est\u00E1vel"
+  short_description: "Skill jur\u00EDdica: Dissolu\u00E7\u00E3o de Uni\u00E3o Est\u00E1vel"
+  default_prompt: "Use $familia-dissolucao-de-uniao-estavel para preparar Dissolu\u00E7\u00E3o de Uni\u00E3o Est\u00E1vel com os dados do caso."

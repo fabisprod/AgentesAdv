@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Acidente em Servi\u00E7o Militar"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Acidente em Servi\u00E7o Mili"
+  default_prompt: "Use $militar-acao-de-indenizacao-por-acidente-em-servico-militar para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Acidente em Servi\u00E7o Militar com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo de Instrumento em Mat\u00E9ria Tribut\u00E1ria"
+  short_description: "Skill jur\u00EDdica: Agravo de Instrumento em Mat\u00E9ria Tribut\u00E1ria"
+  default_prompt: "Use $tributario-agravo-de-instrumento-em-materia-tributaria para preparar Agravo de Instrumento em Mat\u00E9ria Tribut\u00E1ria com os dados do caso."

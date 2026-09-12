@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amicus Curiae Tribut\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Amicus Curiae Tribut\u00E1rio"
+  default_prompt: "Use $tributario-amicus-curiae-tributario para preparar Amicus Curiae Tribut\u00E1rio com os dados do caso."

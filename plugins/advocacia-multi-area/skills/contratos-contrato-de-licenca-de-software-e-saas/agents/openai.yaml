@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Licenca de Software e SaaS"
+  short_description: "Skill jur\u00EDdica: Contrato de Licenca de Software e SaaS"
+  default_prompt: "Use $contratos-contrato-de-licenca-de-software-e-saas para preparar Contrato de Licenca de Software e SaaS com os dados do caso."

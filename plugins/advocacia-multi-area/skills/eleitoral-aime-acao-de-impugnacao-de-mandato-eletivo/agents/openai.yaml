@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIME \u2014 A\u00E7\u00E3o de Impugna\u00E7\u00E3o de Mandato Eletivo"
+  short_description: "Skill jur\u00EDdica: AIME \u2014 A\u00E7\u00E3o de Impugna\u00E7\u00E3o de Mandato Eletivo"
+  default_prompt: "Use $eleitoral-aime-acao-de-impugnacao-de-mandato-eletivo para preparar AIME \u2014 A\u00E7\u00E3o de Impugna\u00E7\u00E3o de Mandato Eletivo com os dados do caso."

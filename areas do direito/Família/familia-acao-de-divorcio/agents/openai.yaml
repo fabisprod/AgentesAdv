@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Div\u00F3rcio"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Div\u00F3rcio"
+  default_prompt: "Use $familia-acao-de-divorcio para preparar A\u00E7\u00E3o de Div\u00F3rcio com os dados do caso."

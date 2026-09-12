@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revis\u00E3o de Alimentos"
+  short_description: "Skill jur\u00EDdica: Revis\u00E3o de Alimentos"
+  default_prompt: "Use $familia-revisao-de-alimentos para preparar Revis\u00E3o de Alimentos com os dados do caso."

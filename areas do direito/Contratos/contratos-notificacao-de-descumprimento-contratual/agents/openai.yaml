@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notificacao de Descumprimento Contratual"
+  short_description: "Skill jur\u00EDdica: Notificacao de Descumprimento Contratual"
+  default_prompt: "Use $contratos-notificacao-de-descumprimento-contratual para preparar Notificacao de Descumprimento Contratual com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pedido de Compensa\u00E7\u00E3o Tribut\u00E1ria"
+  short_description: "Skill jur\u00EDdica: Pedido de Compensa\u00E7\u00E3o Tribut\u00E1ria"
+  default_prompt: "Use $tributario-pedido-de-compensacao-tributaria para preparar Pedido de Compensa\u00E7\u00E3o Tribut\u00E1ria com os dados do caso."

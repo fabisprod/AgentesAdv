@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medidas Protetivas de Urgência (Lei 11.340/2006 — polo da vítima)"
+  short_description: "Skill jurídica: Medidas Protetivas de Urgência (Lei 11.340/2006"
+  default_prompt: "Use $medidas-protetivas-urgencia para preparar Medidas Protetivas de Urgência (Lei 11.340/2006 — polo da vítima) com os dados do caso."

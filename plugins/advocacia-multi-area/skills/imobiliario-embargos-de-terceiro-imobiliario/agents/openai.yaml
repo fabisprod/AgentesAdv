@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos de Terceiro (Imobili\u00E1rio)"
+  short_description: "Skill jur\u00EDdica: Embargos de Terceiro (Imobili\u00E1rio)"
+  default_prompt: "Use $imobiliario-embargos-de-terceiro-imobiliario para preparar Embargos de Terceiro (Imobili\u00E1rio) com os dados do caso."

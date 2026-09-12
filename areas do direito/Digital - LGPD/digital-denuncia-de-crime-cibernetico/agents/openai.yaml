@@ -1,0 +1,4 @@
+interface:
+  display_name: "Den\u00FAncia de Crime Cibern\u00E9tico"
+  short_description: "Skill jur\u00EDdica: Den\u00FAncia de Crime Cibern\u00E9tico"
+  default_prompt: "Use $digital-denuncia-de-crime-cibernetico para preparar Den\u00FAncia de Crime Cibern\u00E9tico com os dados do caso."

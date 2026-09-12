@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notifica\u00E7\u00E3o Extrajudicial por Viola\u00E7\u00E3o de Direitos Autorais Online"
+  short_description: "Skill jur\u00EDdica: Notifica\u00E7\u00E3o Extrajudicial por Viola\u00E7\u00E3o de Direit"
+  default_prompt: "Use $digital-notificacao-extrajudicial-por-violacao-de-be7e7b35 para preparar Notifica\u00E7\u00E3o Extrajudicial por Viola\u00E7\u00E3o de Direitos Autorais Online com os dados do caso."

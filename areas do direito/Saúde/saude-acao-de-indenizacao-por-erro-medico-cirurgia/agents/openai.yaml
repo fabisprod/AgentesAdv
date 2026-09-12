@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Erro M\u00E9dico (Cirurgia)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Erro M\u00E9dico (Cirurgia)"
+  default_prompt: "Use $saude-acao-de-indenizacao-por-erro-medico-cirurgia para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Erro M\u00E9dico (Cirurgia) com os dados do caso."

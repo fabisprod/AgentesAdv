@@ -1,0 +1,4 @@
+interface:
+  display_name: "Filia\u00E7\u00E3o Socioafetiva"
+  short_description: "Skill jur\u00EDdica: Filia\u00E7\u00E3o Socioafetiva"
+  default_prompt: "Use $familia-filiacao-socioafetiva para preparar Filia\u00E7\u00E3o Socioafetiva com os dados do caso."

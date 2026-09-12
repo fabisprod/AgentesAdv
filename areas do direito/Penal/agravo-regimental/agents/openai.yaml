@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo Regimental / Agravo Interno (AgRg / AgInt)"
+  short_description: "Skill jurídica: Agravo Regimental / Agravo Interno (AgRg / AgInt"
+  default_prompt: "Use $agravo-regimental para preparar Agravo Regimental / Agravo Interno (AgRg / AgInt) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medida Protetiva de Urg\u00EAncia (Lei Maria da Penha)"
+  short_description: "Skill jur\u00EDdica: Medida Protetiva de Urg\u00EAncia (Lei Maria da Penha"
+  default_prompt: "Use $familia-medida-protetiva-de-urgencia-lei-maria-da-penha para preparar Medida Protetiva de Urg\u00EAncia (Lei Maria da Penha) com os dados do caso."

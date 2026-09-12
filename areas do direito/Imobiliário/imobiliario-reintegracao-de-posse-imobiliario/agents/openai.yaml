@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reintegra\u00E7\u00E3o de Posse (Imobili\u00E1rio)"
+  short_description: "Skill jur\u00EDdica: Reintegra\u00E7\u00E3o de Posse (Imobili\u00E1rio)"
+  default_prompt: "Use $imobiliario-reintegracao-de-posse-imobiliario para preparar Reintegra\u00E7\u00E3o de Posse (Imobili\u00E1rio) com os dados do caso."

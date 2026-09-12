@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a contra Ato de Autoridade Militar"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a contra Ato de Autoridade Mi"
+  default_prompt: "Use $militar-mandado-de-seguranca-contra-ato-de-autoridade-militar para preparar Mandado de Seguran\u00E7a contra Ato de Autoridade Militar com os dados do caso."

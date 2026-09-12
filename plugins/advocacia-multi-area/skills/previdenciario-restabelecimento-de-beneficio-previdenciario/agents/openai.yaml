@@ -1,0 +1,4 @@
+interface:
+  display_name: "Restabelecimento de Benef\u00EDcio Previdenci\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Restabelecimento de Benef\u00EDcio Previdenci\u00E1rio"
+  default_prompt: "Use $previdenciario-restabelecimento-de-beneficio-previdenciario para preparar Restabelecimento de Benef\u00EDcio Previdenci\u00E1rio com os dados do caso."

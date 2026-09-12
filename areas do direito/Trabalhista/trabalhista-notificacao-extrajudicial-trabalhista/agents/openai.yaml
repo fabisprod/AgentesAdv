@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notifica\u00E7\u00E3o Extrajudicial Trabalhista"
+  short_description: "Skill jur\u00EDdica: Notifica\u00E7\u00E3o Extrajudicial Trabalhista"
+  default_prompt: "Use $trabalhista-notificacao-extrajudicial-trabalhista para preparar Notifica\u00E7\u00E3o Extrajudicial Trabalhista com os dados do caso."

@@ -1,0 +1,20 @@
+{
+  "name": "advocacia-multi-area",
+  "version": "0.1.0",
+  "description": "Roteamento e skills jurídicas multiárea para escritórios brasileiros.",
+  "author": {
+    "name": "Advocacia Multiárea"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Advocacia Multi Area",
+    "shortDescription": "Skills jurídicas com roteamento seguro.",
+    "longDescription": "Plugin local com roteador, catálogo de skills e controles de revisão para a prática jurídica brasileira.",
+    "developerName": "Advocacia Multiárea",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Use $orquestrador-juridico-geral para identificar a skill adequada e orientar a próxima ação com as informações que eu fornecer."
+    ]
+  }
+}

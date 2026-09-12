@@ -1,0 +1,4 @@
+interface:
+  display_name: "Incidente de Falsidade Documental (CPP, arts. 145-148)"
+  short_description: "Skill jurídica: Incidente de Falsidade Documental (CPP, arts. 14"
+  default_prompt: "Use $incidente-falsidade-documental para preparar Incidente de Falsidade Documental (CPP, arts. 145-148) com os dados do caso."

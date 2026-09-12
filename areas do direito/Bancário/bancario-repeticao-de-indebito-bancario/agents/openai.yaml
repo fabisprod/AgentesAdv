@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repeti\u00E7\u00E3o de Ind\u00E9bito Banc\u00E1rio"
+  short_description: "Skill jur\u00EDdica: Repeti\u00E7\u00E3o de Ind\u00E9bito Banc\u00E1rio"
+  default_prompt: "Use $bancario-repeticao-de-indebito-bancario para preparar Repeti\u00E7\u00E3o de Ind\u00E9bito Banc\u00E1rio com os dados do caso."

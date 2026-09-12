@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acompanhamento de depoimento em CPI e PIC"
+  short_description: "Skill jurídica: Acompanhamento de depoimento em CPI e PIC"
+  default_prompt: "Use $acompanhamento-depoimento-cpi-pic para preparar Acompanhamento de depoimento em CPI e PIC com os dados do caso."

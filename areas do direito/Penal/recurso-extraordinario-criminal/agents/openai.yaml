@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Extraordinário Criminal (RE — STF)"
+  short_description: "Skill jurídica: Recurso Extraordinário Criminal (RE — STF)"
+  default_prompt: "Use $recurso-extraordinario-criminal para preparar Recurso Extraordinário Criminal (RE — STF) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imiss\u00E3o na Posse"
+  short_description: "Skill jur\u00EDdica: Imiss\u00E3o na Posse"
+  default_prompt: "Use $imobiliario-imissao-na-posse para preparar Imiss\u00E3o na Posse com os dados do caso."

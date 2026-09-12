@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer de Direito do Consumidor"
+  short_description: "Skill jur\u00EDdica: Parecer de Direito do Consumidor"
+  default_prompt: "Use $consumidor-parecer-de-direito-do-consumidor para preparar Parecer de Direito do Consumidor com os dados do caso."

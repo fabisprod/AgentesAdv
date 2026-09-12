@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a C\u00EDvel"
+  default_prompt: "Use $civel-mandado-de-seguranca-civel para preparar Mandado de Seguran\u00E7a C\u00EDvel com os dados do caso."

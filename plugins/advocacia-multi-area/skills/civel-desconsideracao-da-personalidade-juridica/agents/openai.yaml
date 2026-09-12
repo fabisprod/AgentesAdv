@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desconsidera\u00E7\u00E3o da Personalidade Jur\u00EDdica"
+  short_description: "Skill jur\u00EDdica: Desconsidera\u00E7\u00E3o da Personalidade Jur\u00EDdica"
+  default_prompt: "Use $civel-desconsideracao-da-personalidade-juridica para preparar Desconsidera\u00E7\u00E3o da Personalidade Jur\u00EDdica com os dados do caso."

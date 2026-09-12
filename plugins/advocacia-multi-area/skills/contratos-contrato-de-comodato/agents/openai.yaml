@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Comodato"
+  short_description: "Skill jur\u00EDdica: Contrato de Comodato"
+  default_prompt: "Use $contratos-contrato-de-comodato para preparar Contrato de Comodato com os dados do caso."

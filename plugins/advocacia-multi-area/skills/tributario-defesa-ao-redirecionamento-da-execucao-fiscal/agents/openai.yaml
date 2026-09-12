@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa ao Redirecionamento da Execu\u00E7\u00E3o Fiscal"
+  short_description: "Skill jur\u00EDdica: Defesa ao Redirecionamento da Execu\u00E7\u00E3o Fiscal"
+  default_prompt: "Use $tributario-defesa-ao-redirecionamento-da-execucao-fiscal para preparar Defesa ao Redirecionamento da Execu\u00E7\u00E3o Fiscal com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Deep Fake (Uso N\u00E3o Autorizado de Imagem)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Deep Fake (Uso N\u00E3o Autor"
+  default_prompt: "Use $digital-acao-de-indenizacao-por-deep-fake-uso-nao-autorizado-de para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Deep Fake (Uso N\u00E3o Autorizado de Imagem) com os dados do caso."

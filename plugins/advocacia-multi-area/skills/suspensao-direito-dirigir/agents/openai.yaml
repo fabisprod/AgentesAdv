@@ -1,0 +1,4 @@
+interface:
+  display_name: "Suspensão/proibição do direito de dirigir (defesa)"
+  short_description: "Skill jurídica: Suspensão/proibição do direito de dirigir (defes"
+  default_prompt: "Use $suspensao-direito-dirigir para preparar Suspensão/proibição do direito de dirigir (defesa) com os dados do caso."

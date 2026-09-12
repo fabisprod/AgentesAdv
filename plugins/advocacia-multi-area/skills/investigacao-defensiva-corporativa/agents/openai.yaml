@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investigação Defensiva Corporativa (internal investigation)"
+  short_description: "Skill jurídica: Investigação Defensiva Corporativa (internal inv"
+  default_prompt: "Use $investigacao-defensiva-corporativa para preparar Investigação Defensiva Corporativa (internal investigation) com os dados do caso."

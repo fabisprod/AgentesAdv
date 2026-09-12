@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distrato e Rescis\u00E3o Contratual"
+  short_description: "Skill jur\u00EDdica: Distrato e Rescis\u00E3o Contratual"
+  default_prompt: "Use $contratos-distrato-e-rescisao-contratual para preparar Distrato e Rescis\u00E3o Contratual com os dados do caso."

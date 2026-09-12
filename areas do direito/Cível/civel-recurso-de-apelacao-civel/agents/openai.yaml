@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso de Apela\u00E7\u00E3o C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: Recurso de Apela\u00E7\u00E3o C\u00EDvel"
+  default_prompt: "Use $civel-recurso-de-apelacao-civel para preparar Recurso de Apela\u00E7\u00E3o C\u00EDvel com os dados do caso."

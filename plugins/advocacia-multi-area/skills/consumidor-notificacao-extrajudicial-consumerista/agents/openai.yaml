@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notifica\u00E7\u00E3o Extrajudicial Consumerista"
+  short_description: "Skill jur\u00EDdica: Notifica\u00E7\u00E3o Extrajudicial Consumerista"
+  default_prompt: "Use $consumidor-notificacao-extrajudicial-consumerista para preparar Notifica\u00E7\u00E3o Extrajudicial Consumerista com os dados do caso."

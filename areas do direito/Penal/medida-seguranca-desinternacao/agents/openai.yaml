@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medida de Segurança — Desinternação e Cessação de Periculosidade"
+  short_description: "Skill jurídica: Medida de Segurança — Desinternação e Cessação d"
+  default_prompt: "Use $medida-seguranca-desinternacao para preparar Medida de Segurança — Desinternação e Cessação de Periculosidade com os dados do caso."

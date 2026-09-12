@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extinção da Punibilidade — Prescrição (pedido autônomo)"
+  short_description: "Skill jurídica: Extinção da Punibilidade — Prescrição (pedido au"
+  default_prompt: "Use $extincao-punibilidade-prescricao para preparar Extinção da Punibilidade — Prescrição (pedido autônomo) com os dados do caso."

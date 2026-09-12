@@ -1,0 +1,4 @@
+interface:
+  display_name: "Incorpora\u00E7\u00E3o Imobili\u00E1ria \u2014 Registro e Compliance"
+  short_description: "Skill jur\u00EDdica: Incorpora\u00E7\u00E3o Imobili\u00E1ria \u2014 Registro e Compliance"
+  default_prompt: "Use $imobiliario-incorporacao-imobiliaria-registro-e-compliance para preparar Incorpora\u00E7\u00E3o Imobili\u00E1ria \u2014 Registro e Compliance com os dados do caso."

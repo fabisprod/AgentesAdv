@@ -1,0 +1,4 @@
+interface:
+  display_name: "An\u00E1lise de Matr\u00EDcula Imobili\u00E1ria"
+  short_description: "Skill jur\u00EDdica: An\u00E1lise de Matr\u00EDcula Imobili\u00E1ria"
+  default_prompt: "Use $imobiliario-analise-de-matricula-imobiliaria para preparar An\u00E1lise de Matr\u00EDcula Imobili\u00E1ria com os dados do caso."

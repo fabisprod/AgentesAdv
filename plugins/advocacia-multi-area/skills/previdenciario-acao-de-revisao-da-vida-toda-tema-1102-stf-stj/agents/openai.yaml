@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Revisao da Vida Toda (Tema 1102 STF/STJ)"
+  short_description: "Skill jur\u00EDdica: Acao de Revisao da Vida Toda (Tema 1102 STF/STJ)"
+  default_prompt: "Use $previdenciario-acao-de-revisao-da-vida-toda-tema-1102-stf-stj para preparar Acao de Revisao da Vida Toda (Tema 1102 STF/STJ) com os dados do caso."

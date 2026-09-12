@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reconhecimento de V\u00EDnculo Empregat\u00EDcio (PJ/Pejotiza\u00E7\u00E3o)"
+  short_description: "Skill jur\u00EDdica: Reconhecimento de V\u00EDnculo Empregat\u00EDcio (PJ/Pejot"
+  default_prompt: "Use $trabalhista-reconhecimento-de-vinculo-empregaticio-6b83789b para preparar Reconhecimento de V\u00EDnculo Empregat\u00EDcio (PJ/Pejotiza\u00E7\u00E3o) com os dados do caso."

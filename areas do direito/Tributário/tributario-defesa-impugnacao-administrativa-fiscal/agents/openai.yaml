@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa/Impugna\u00E7\u00E3o Administrativa Fiscal"
+  short_description: "Skill jur\u00EDdica: Defesa/Impugna\u00E7\u00E3o Administrativa Fiscal"
+  default_prompt: "Use $tributario-defesa-impugnacao-administrativa-fiscal para preparar Defesa/Impugna\u00E7\u00E3o Administrativa Fiscal com os dados do caso."

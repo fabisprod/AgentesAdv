@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso Volunt\u00E1rio ao CARF"
+  short_description: "Skill jur\u00EDdica: Recurso Volunt\u00E1rio ao CARF"
+  default_prompt: "Use $tributario-recurso-voluntario-ao-carf para preparar Recurso Volunt\u00E1rio ao CARF com os dados do caso."

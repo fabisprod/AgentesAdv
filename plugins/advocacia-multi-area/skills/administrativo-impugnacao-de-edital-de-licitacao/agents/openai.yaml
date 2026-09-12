@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugna\u00E7\u00E3o de Edital de Licita\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: Impugna\u00E7\u00E3o de Edital de Licita\u00E7\u00E3o"
+  default_prompt: "Use $administrativo-impugnacao-de-edital-de-licitacao para preparar Impugna\u00E7\u00E3o de Edital de Licita\u00E7\u00E3o com os dados do caso."

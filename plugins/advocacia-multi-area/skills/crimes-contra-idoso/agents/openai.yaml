@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crimes contra a Pessoa Idosa (Lei 10.741/2003, arts. 95 a 108)"
+  short_description: "Skill jurídica: Crimes contra a Pessoa Idosa (Lei 10.741/2003, a"
+  default_prompt: "Use $crimes-contra-idoso para preparar Crimes contra a Pessoa Idosa (Lei 10.741/2003, arts. 95 a 108) com os dados do caso."

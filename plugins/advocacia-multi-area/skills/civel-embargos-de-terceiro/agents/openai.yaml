@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embargos de Terceiro"
+  short_description: "Skill jur\u00EDdica: Embargos de Terceiro"
+  default_prompt: "Use $civel-embargos-de-terceiro para preparar Embargos de Terceiro com os dados do caso."

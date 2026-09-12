@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Popular (Improbidade / Les\u00E3o ao Patrim\u00F4nio P\u00FAblico)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Popular (Improbidade / Les\u00E3o ao Patrim\u00F4nio"
+  default_prompt: "Use $administrativo-acao-popular-improbidade-lesao-ao-p-0ac76aa6 para preparar A\u00E7\u00E3o Popular (Improbidade / Les\u00E3o ao Patrim\u00F4nio P\u00FAblico) com os dados do caso."

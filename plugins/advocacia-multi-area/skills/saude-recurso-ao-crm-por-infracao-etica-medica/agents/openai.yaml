@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso ao CRM por Infra\u00E7\u00E3o \u00C9tica M\u00E9dica"
+  short_description: "Skill jur\u00EDdica: Recurso ao CRM por Infra\u00E7\u00E3o \u00C9tica M\u00E9dica"
+  default_prompt: "Use $saude-recurso-ao-crm-por-infracao-etica-medica para preparar Recurso ao CRM por Infra\u00E7\u00E3o \u00C9tica M\u00E9dica com os dados do caso."

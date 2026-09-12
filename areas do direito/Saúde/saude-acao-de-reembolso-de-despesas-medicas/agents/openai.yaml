@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Reembolso de Despesas M\u00E9dicas"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Reembolso de Despesas M\u00E9dicas"
+  default_prompt: "Use $saude-acao-de-reembolso-de-despesas-medicas para preparar A\u00E7\u00E3o de Reembolso de Despesas M\u00E9dicas com os dados do caso."

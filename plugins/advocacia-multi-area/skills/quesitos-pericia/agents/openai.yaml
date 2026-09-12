@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quesitos e Assistente Técnico na Perícia Penal"
+  short_description: "Skill jurídica: Quesitos e Assistente Técnico na Perícia Penal"
+  default_prompt: "Use $quesitos-pericia para preparar Quesitos e Assistente Técnico na Perícia Penal com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MOU \u2014 Memorando de Entendimentos"
+  short_description: "Skill jur\u00EDdica: MOU \u2014 Memorando de Entendimentos"
+  default_prompt: "Use $contratos-mou-memorando-de-entendimentos para preparar MOU \u2014 Memorando de Entendimentos com os dados do caso."

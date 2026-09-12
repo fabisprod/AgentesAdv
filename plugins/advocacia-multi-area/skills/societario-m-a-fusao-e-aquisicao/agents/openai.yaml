@@ -1,0 +1,4 @@
+interface:
+  display_name: "M&A \u2014 Fus\u00E3o e Aquisi\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: M&A \u2014 Fus\u00E3o e Aquisi\u00E7\u00E3o"
+  default_prompt: "Use $societario-m-a-fusao-e-aquisicao para preparar M&A \u2014 Fus\u00E3o e Aquisi\u00E7\u00E3o com os dados do caso."

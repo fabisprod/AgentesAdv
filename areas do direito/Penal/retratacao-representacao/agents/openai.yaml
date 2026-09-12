@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retratação da Representação (e Renúncia)"
+  short_description: "Skill jurídica: Retratação da Representação (e Renúncia)"
+  default_prompt: "Use $retratacao-da-representacao para preparar Retratação da Representação (e Renúncia) com os dados do caso."

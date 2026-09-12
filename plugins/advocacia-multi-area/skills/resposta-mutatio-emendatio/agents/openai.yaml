@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resposta à Mutatio e Emendatio Libelli (reação ao aditamento)"
+  short_description: "Skill jurídica: Resposta à Mutatio e Emendatio Libelli (reação a"
+  default_prompt: "Use $resposta-mutatio-emendatio para preparar Resposta à Mutatio e Emendatio Libelli (reação ao aditamento) com os dados do caso."

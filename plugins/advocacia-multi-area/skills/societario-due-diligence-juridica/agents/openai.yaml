@@ -1,0 +1,4 @@
+interface:
+  display_name: "Due Diligence Juridica"
+  short_description: "Skill jur\u00EDdica: Due Diligence Juridica"
+  default_prompt: "Use $societario-due-diligence-juridica para preparar Due Diligence Juridica com os dados do caso."

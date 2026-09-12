@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remo\u00E7\u00E3o de Conte\u00FAdo e Direito ao Esquecimento"
+  short_description: "Skill jur\u00EDdica: Remo\u00E7\u00E3o de Conte\u00FAdo e Direito ao Esquecimento"
+  default_prompt: "Use $digital-remocao-de-conteudo-e-direito-ao-esquecimento para preparar Remo\u00E7\u00E3o de Conte\u00FAdo e Direito ao Esquecimento com os dados do caso."

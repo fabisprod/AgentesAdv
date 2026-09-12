@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preparação do Cliente para o Interrogatório (arts. 185–196 do CPP)"
+  short_description: "Skill jurídica: Preparação do Cliente para o Interrogatório (art"
+  default_prompt: "Use $preparacao-interrogatorio-cliente para preparar Preparação do Cliente para o Interrogatório (arts. 185–196 do CPP) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medidas Protetivas da Lei Henry Borel (Lei 14.344/2022)"
+  short_description: "Skill jurídica: Medidas Protetivas da Lei Henry Borel (Lei 14.34"
+  default_prompt: "Use $protetivas-lei-henry-borel para preparar Medidas Protetivas da Lei Henry Borel (Lei 14.344/2022) com os dados do caso."

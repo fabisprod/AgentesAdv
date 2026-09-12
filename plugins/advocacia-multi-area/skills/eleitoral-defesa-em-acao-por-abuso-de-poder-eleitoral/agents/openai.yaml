@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em A\u00E7\u00E3o por Abuso de Poder Eleitoral"
+  short_description: "Skill jur\u00EDdica: Defesa em A\u00E7\u00E3o por Abuso de Poder Eleitoral"
+  default_prompt: "Use $eleitoral-defesa-em-acao-por-abuso-de-poder-eleitoral para preparar Defesa em A\u00E7\u00E3o por Abuso de Poder Eleitoral com os dados do caso."

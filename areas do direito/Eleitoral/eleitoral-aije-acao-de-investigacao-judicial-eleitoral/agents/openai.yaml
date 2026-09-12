@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIJE \u2014 A\u00E7\u00E3o de Investiga\u00E7\u00E3o Judicial Eleitoral"
+  short_description: "Skill jur\u00EDdica: AIJE \u2014 A\u00E7\u00E3o de Investiga\u00E7\u00E3o Judicial Eleitoral"
+  default_prompt: "Use $eleitoral-aije-acao-de-investigacao-judicial-eleitoral para preparar AIJE \u2014 A\u00E7\u00E3o de Investiga\u00E7\u00E3o Judicial Eleitoral com os dados do caso."

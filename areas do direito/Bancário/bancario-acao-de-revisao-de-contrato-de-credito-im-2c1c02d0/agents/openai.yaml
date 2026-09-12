@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Revis\u00E3o de Contrato de Cr\u00E9dito Imobili\u00E1rio (FGTS/SFH)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Revis\u00E3o de Contrato de Cr\u00E9dito Imobili\u00E1r"
+  default_prompt: "Use $bancario-acao-de-revisao-de-contrato-de-credito-im-2c1c02d0 para preparar A\u00E7\u00E3o de Revis\u00E3o de Contrato de Cr\u00E9dito Imobili\u00E1rio (FGTS/SFH) com os dados do caso."

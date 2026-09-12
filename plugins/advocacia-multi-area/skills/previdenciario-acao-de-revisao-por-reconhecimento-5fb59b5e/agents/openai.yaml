@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acao de Revisao por Reconhecimento de Tempo Especial"
+  short_description: "Skill jur\u00EDdica: Acao de Revisao por Reconhecimento de Tempo Espe"
+  default_prompt: "Use $previdenciario-acao-de-revisao-por-reconhecimento-5fb59b5e para preparar Acao de Revisao por Reconhecimento de Tempo Especial com os dados do caso."

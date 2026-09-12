@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adjudica\u00E7\u00E3o Compuls\u00F3ria"
+  short_description: "Skill jur\u00EDdica: Adjudica\u00E7\u00E3o Compuls\u00F3ria"
+  default_prompt: "Use $imobiliario-adjudicacao-compulsoria para preparar Adjudica\u00E7\u00E3o Compuls\u00F3ria com os dados do caso."

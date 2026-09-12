@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugna\u00E7\u00E3o de Auto de Infra\u00E7\u00E3o ANPD"
+  short_description: "Skill jur\u00EDdica: Impugna\u00E7\u00E3o de Auto de Infra\u00E7\u00E3o ANPD"
+  default_prompt: "Use $digital-impugnacao-de-auto-de-infracao-anpd para preparar Impugna\u00E7\u00E3o de Auto de Infra\u00E7\u00E3o ANPD com os dados do caso."

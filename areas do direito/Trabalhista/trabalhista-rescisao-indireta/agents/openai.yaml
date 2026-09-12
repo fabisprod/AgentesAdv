@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rescis\u00E3o Indireta"
+  short_description: "Skill jur\u00EDdica: Rescis\u00E3o Indireta"
+  default_prompt: "Use $trabalhista-rescisao-indireta para preparar Rescis\u00E3o Indireta com os dados do caso."

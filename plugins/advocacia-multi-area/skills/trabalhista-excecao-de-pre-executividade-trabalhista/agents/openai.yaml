@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exce\u00E7\u00E3o de Pr\u00E9-Executividade Trabalhista"
+  short_description: "Skill jur\u00EDdica: Exce\u00E7\u00E3o de Pr\u00E9-Executividade Trabalhista"
+  default_prompt: "Use $trabalhista-excecao-de-pre-executividade-trabalhista para preparar Exce\u00E7\u00E3o de Pr\u00E9-Executividade Trabalhista com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo Interno em Mat\u00E9ria Previdenci\u00E1ria"
+  short_description: "Skill jur\u00EDdica: Agravo Interno em Mat\u00E9ria Previdenci\u00E1ria"
+  default_prompt: "Use $previdenciario-agravo-interno-em-materia-previdenciaria para preparar Agravo Interno em Mat\u00E9ria Previdenci\u00E1ria com os dados do caso."

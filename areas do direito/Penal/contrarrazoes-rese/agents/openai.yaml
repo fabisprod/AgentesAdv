@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrarrazões de Recurso em Sentido Estrito"
+  short_description: "Skill jurídica: Contrarrazões de Recurso em Sentido Estrito"
+  default_prompt: "Use $contrarrazoes-de-rese para preparar Contrarrazões de Recurso em Sentido Estrito com os dados do caso."

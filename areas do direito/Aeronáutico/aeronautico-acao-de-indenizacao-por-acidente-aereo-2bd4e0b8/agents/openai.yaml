@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Acidente A\u00E9reo (V\u00EDtimas e Familiares)"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Acidente A\u00E9reo (V\u00EDtimas"
+  default_prompt: "Use $aeronautico-acao-de-indenizacao-por-acidente-aereo-2bd4e0b8 para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Acidente A\u00E9reo (V\u00EDtimas e Familiares) com os dados do caso."

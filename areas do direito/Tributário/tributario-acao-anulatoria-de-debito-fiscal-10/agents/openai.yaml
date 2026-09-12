@@ -1,0 +1,6 @@
+interface:
+  display_name: "A\u00E7\u00E3o Anulat\u00F3ria de D\u00E9bito Fiscal"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Anulat\u00F3ria de D\u00E9bito Fiscal"
+  default_prompt: "Use $tributario-acao-anulatoria-de-debito-fiscal-10 para preparar A\u00E7\u00E3o Anulat\u00F3ria de D\u00E9bito Fiscal com os dados do caso."
+policy:
+  allow_implicit_invocation: false

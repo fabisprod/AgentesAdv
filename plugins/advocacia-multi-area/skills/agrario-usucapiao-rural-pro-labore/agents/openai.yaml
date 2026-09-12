@@ -1,0 +1,4 @@
+interface:
+  display_name: "Usucapi\u00E3o Rural (Pro Labore)"
+  short_description: "Skill jur\u00EDdica: Usucapi\u00E3o Rural (Pro Labore)"
+  default_prompt: "Use $agrario-usucapiao-rural-pro-labore para preparar Usucapi\u00E3o Rural (Pro Labore) com os dados do caso."

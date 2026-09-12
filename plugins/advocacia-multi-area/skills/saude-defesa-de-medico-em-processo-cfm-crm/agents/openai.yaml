@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa de M\u00E9dico em Processo CFM/CRM"
+  short_description: "Skill jur\u00EDdica: Defesa de M\u00E9dico em Processo CFM/CRM"
+  default_prompt: "Use $saude-defesa-de-medico-em-processo-cfm-crm para preparar Defesa de M\u00E9dico em Processo CFM/CRM com os dados do caso."

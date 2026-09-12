@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indeniza\u00E7\u00E3o por Vazamento de Dados"
+  short_description: "Skill jur\u00EDdica: Indeniza\u00E7\u00E3o por Vazamento de Dados"
+  default_prompt: "Use $digital-indenizacao-por-vazamento-de-dados para preparar Indeniza\u00E7\u00E3o por Vazamento de Dados com os dados do caso."

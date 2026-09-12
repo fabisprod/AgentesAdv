@@ -1,0 +1,4 @@
+interface:
+  display_name: "Restituição de Coisas Apreendidas (CPP, arts. 118-124)"
+  short_description: "Skill jurídica: Restituição de Coisas Apreendidas (CPP, arts. 11"
+  default_prompt: "Use $restituicao-coisas-apreendidas para preparar Restituição de Coisas Apreendidas (CPP, arts. 118-124) com os dados do caso."

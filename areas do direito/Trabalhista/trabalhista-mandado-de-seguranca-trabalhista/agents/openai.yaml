@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a Trabalhista"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a Trabalhista"
+  default_prompt: "Use $trabalhista-mandado-de-seguranca-trabalhista para preparar Mandado de Seguran\u00E7a Trabalhista com os dados do caso."

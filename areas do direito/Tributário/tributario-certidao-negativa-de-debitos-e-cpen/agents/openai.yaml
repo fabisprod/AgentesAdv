@@ -1,0 +1,4 @@
+interface:
+  display_name: "Certid\u00E3o Negativa de D\u00E9bitos e CPEN"
+  short_description: "Skill jur\u00EDdica: Certid\u00E3o Negativa de D\u00E9bitos e CPEN"
+  default_prompt: "Use $tributario-certidao-negativa-de-debitos-e-cpen para preparar Certid\u00E3o Negativa de D\u00E9bitos e CPEN com os dados do caso."

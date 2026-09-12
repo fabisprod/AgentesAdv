@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa Patrimonial contra Medidas Assecuratórias (CPP, arts. 125-144-A)"
+  short_description: "Skill jurídica: Defesa Patrimonial contra Medidas Assecuratórias"
+  default_prompt: "Use $levantamento-medidas-assecuratorias para preparar Defesa Patrimonial contra Medidas Assecuratórias (CPP, arts. 125-144-A) com os dados do caso."

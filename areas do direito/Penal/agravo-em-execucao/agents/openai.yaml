@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo em Execução"
+  short_description: "Skill jurídica: Agravo em Execução"
+  default_prompt: "Use $agravo-em-execucao para preparar Agravo em Execução com os dados do caso."

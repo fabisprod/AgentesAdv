@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Guarda"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Guarda"
+  default_prompt: "Use $familia-acao-de-guarda para preparar A\u00E7\u00E3o de Guarda com os dados do caso."

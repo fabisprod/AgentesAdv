@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notifica\u00E7\u00E3o de Incidente LGPD"
+  short_description: "Skill jur\u00EDdica: Notifica\u00E7\u00E3o de Incidente LGPD"
+  default_prompt: "Use $digital-notificacao-de-incidente-lgpd para preparar Notifica\u00E7\u00E3o de Incidente LGPD com os dados do caso."

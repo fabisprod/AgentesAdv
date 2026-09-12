@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o Coletiva Consumerista"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o Coletiva Consumerista"
+  default_prompt: "Use $consumidor-acao-coletiva-consumerista para preparar A\u00E7\u00E3o Coletiva Consumerista com os dados do caso."

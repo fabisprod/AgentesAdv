@@ -1,0 +1,4 @@
+interface:
+  display_name: "Composição Civil dos Danos no JECRIM (art. 74 da Lei 9.099/95)"
+  short_description: "Skill jurídica: Composição Civil dos Danos no JECRIM (art. 74 da"
+  default_prompt: "Use $composicao-civil-danos-jecrim para preparar Composição Civil dos Danos no JECRIM (art. 74 da Lei 9.099/95) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tutela de Menor"
+  short_description: "Skill jur\u00EDdica: Tutela de Menor"
+  default_prompt: "Use $familia-tutela-de-menor para preparar Tutela de Menor com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Elaboracao Contrato Social"
+  short_description: "Skill jur\u00EDdica: Elaboracao Contrato Social"
+  default_prompt: "Use $societario-elaboracao-contrato-social para preparar Elaboracao Contrato Social com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Processo Administrativo Disciplinar - Guarda Municipal"
+  short_description: "Skill jur\u00EDdica: Defesa em Processo Administrativo Disciplinar -"
+  default_prompt: "Use $militar-defesa-em-processo-administrativo-discipli-8e7ee95b para preparar Defesa em Processo Administrativo Disciplinar - Guarda Municipal com os dados do caso."

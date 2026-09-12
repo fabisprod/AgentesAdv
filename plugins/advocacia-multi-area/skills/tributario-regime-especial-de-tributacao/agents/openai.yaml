@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regime Especial de Tributa\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: Regime Especial de Tributa\u00E7\u00E3o"
+  default_prompt: "Use $tributario-regime-especial-de-tributacao para preparar Regime Especial de Tributa\u00E7\u00E3o com os dados do caso."

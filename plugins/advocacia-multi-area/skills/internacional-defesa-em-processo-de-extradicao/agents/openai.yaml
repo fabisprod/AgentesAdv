@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em Processo de Extradi\u00E7\u00E3o"
+  short_description: "Skill jur\u00EDdica: Defesa em Processo de Extradi\u00E7\u00E3o"
+  default_prompt: "Use $internacional-defesa-em-processo-de-extradicao para preparar Defesa em Processo de Extradi\u00E7\u00E3o com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer sobre Contrato"
+  short_description: "Skill jur\u00EDdica: Parecer sobre Contrato"
+  default_prompt: "Use $contratos-parecer-sobre-contrato para preparar Parecer sobre Contrato com os dados do caso."

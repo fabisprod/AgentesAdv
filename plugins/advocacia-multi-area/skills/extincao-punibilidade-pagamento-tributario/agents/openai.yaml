@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extinção da Punibilidade pelo Pagamento — Crimes Tributários (pedidos sucessivos)"
+  short_description: "Skill jurídica: Extinção da Punibilidade pelo Pagamento — Crimes"
+  default_prompt: "Use $extincao-punibilidade-pagamento-tributario para preparar Extinção da Punibilidade pelo Pagamento — Crimes Tributários (pedidos sucessivos) com os dados do caso."

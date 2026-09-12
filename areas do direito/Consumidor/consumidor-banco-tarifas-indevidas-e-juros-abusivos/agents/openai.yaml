@@ -1,0 +1,4 @@
+interface:
+  display_name: "Banco \u2014 Tarifas Indevidas e Juros Abusivos"
+  short_description: "Skill jur\u00EDdica: Banco \u2014 Tarifas Indevidas e Juros Abusivos"
+  default_prompt: "Use $consumidor-banco-tarifas-indevidas-e-juros-abusivos para preparar Banco \u2014 Tarifas Indevidas e Juros Abusivos com os dados do caso."

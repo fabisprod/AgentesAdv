@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa nos Crimes contra a Dignidade Sexual (CP, arts. 213 a 218-C)"
+  short_description: "Skill jurídica: Defesa nos Crimes contra a Dignidade Sexual (CP,"
+  default_prompt: "Use $defesa-crimes-sexuais para preparar Defesa nos Crimes contra a Dignidade Sexual (CP, arts. 213 a 218-C) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer Jur\u00EDdico C\u00EDvel"
+  short_description: "Skill jur\u00EDdica: Parecer Jur\u00EDdico C\u00EDvel"
+  default_prompt: "Use $civel-parecer-juridico-civel para preparar Parecer Jur\u00EDdico C\u00EDvel com os dados do caso."

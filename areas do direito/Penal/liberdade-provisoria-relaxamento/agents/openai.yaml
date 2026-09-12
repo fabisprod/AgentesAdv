@@ -1,0 +1,4 @@
+interface:
+  display_name: "Liberdade Provisória / Relaxamento (pedidos de soltura)"
+  short_description: "Skill jurídica: Liberdade Provisória / Relaxamento (pedidos de s"
+  default_prompt: "Use $liberdade-provisoria-relaxamento para preparar Liberdade Provisória / Relaxamento (pedidos de soltura) com os dados do caso."

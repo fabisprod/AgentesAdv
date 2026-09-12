@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assistente de Acusação"
+  short_description: "Skill jurídica: Assistente de Acusação"
+  default_prompt: "Use $assistente-acusacao para preparar Assistente de Acusação com os dados do caso."

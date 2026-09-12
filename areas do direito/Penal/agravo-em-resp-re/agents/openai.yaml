@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agravo em Recurso Especial e em Recurso Extraordinário (AREsp / ARE)"
+  short_description: "Skill jurídica: Agravo em Recurso Especial e em Recurso Extraord"
+  default_prompt: "Use $agravo-em-resp-re para preparar Agravo em Recurso Especial e em Recurso Extraordinário (AREsp / ARE) com os dados do caso."

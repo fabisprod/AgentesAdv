@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa em A\u00E7\u00E3o Civil P\u00FAblica Ambiental"
+  short_description: "Skill jur\u00EDdica: Defesa em A\u00E7\u00E3o Civil P\u00FAblica Ambiental"
+  default_prompt: "Use $ambiental-defesa-em-acao-civil-publica-ambiental para preparar Defesa em A\u00E7\u00E3o Civil P\u00FAblica Ambiental com os dados do caso."

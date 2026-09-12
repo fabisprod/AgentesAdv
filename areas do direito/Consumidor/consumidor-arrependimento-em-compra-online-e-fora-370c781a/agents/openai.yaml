@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arrependimento em Compra Online e Fora do Estabelecimento"
+  short_description: "Skill jur\u00EDdica: Arrependimento em Compra Online e Fora do Estabe"
+  default_prompt: "Use $consumidor-arrependimento-em-compra-online-e-fora-370c781a para preparar Arrependimento em Compra Online e Fora do Estabelecimento com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parecer de Direito de Fam\u00EDlia"
+  short_description: "Skill jur\u00EDdica: Parecer de Direito de Fam\u00EDlia"
+  default_prompt: "Use $familia-parecer-de-direito-de-familia para preparar Parecer de Direito de Fam\u00EDlia com os dados do caso."

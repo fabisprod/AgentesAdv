@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Influenciador Digital (Publicidade)"
+  short_description: "Skill jur\u00EDdica: Contrato de Influenciador Digital (Publicidade)"
+  default_prompt: "Use $digital-contrato-de-influenciador-digital-publicidade para preparar Contrato de Influenciador Digital (Publicidade) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defesa nos Crimes de Fraude Eletrônica (Lei 14.155/2021)"
+  short_description: "Skill jurídica: Defesa nos Crimes de Fraude Eletrônica (Lei 14.1"
+  default_prompt: "Use $defesa-fraude-eletronica para preparar Defesa nos Crimes de Fraude Eletrônica (Lei 14.155/2021) com os dados do caso."

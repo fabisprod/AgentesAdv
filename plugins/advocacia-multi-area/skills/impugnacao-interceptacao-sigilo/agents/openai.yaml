@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impugnação de Interceptações e Quebras de Sigilo (ilicitude da obtenção)"
+  short_description: "Skill jurídica: Impugnação de Interceptações e Quebras de Sigilo"
+  default_prompt: "Use $impugnacao-interceptacao-sigilo para preparar Impugnação de Interceptações e Quebras de Sigilo (ilicitude da obtenção) com os dados do caso."

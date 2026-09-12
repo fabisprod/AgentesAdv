@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ata De Assembleia Reuniao De Socios"
+  short_description: "Skill jur\u00EDdica: Ata De Assembleia Reuniao De Socios"
+  default_prompt: "Use $societario-ata-de-assembleia-reuniao-de-socios para preparar Ata De Assembleia Reuniao De Socios com os dados do caso."

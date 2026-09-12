@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contrato de Arrendamento e Parceria Agr\u00EDcola"
+  short_description: "Skill jur\u00EDdica: Contrato de Arrendamento e Parceria Agr\u00EDcola"
+  default_prompt: "Use $agrario-contrato-de-arrendamento-e-parceria-agricola para preparar Contrato de Arrendamento e Parceria Agr\u00EDcola com os dados do caso."

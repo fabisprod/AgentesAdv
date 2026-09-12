@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exonera\u00E7\u00E3o de Alimentos"
+  short_description: "Skill jur\u00EDdica: Exonera\u00E7\u00E3o de Alimentos"
+  default_prompt: "Use $familia-exoneracao-de-alimentos para preparar Exonera\u00E7\u00E3o de Alimentos com os dados do caso."

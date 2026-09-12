@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pol\u00EDtica de Privacidade e Termos de Uso"
+  short_description: "Skill jur\u00EDdica: Pol\u00EDtica de Privacidade e Termos de Uso"
+  default_prompt: "Use $digital-politica-de-privacidade-e-termos-de-uso para preparar Pol\u00EDtica de Privacidade e Termos de Uso com os dados do caso."

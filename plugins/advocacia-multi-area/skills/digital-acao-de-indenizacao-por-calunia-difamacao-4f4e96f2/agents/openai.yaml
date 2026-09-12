@@ -1,0 +1,4 @@
+interface:
+  display_name: "A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Cal\u00FAnia/Difama\u00E7\u00E3o em Redes Sociais"
+  short_description: "Skill jur\u00EDdica: A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Cal\u00FAnia/Difama\u00E7\u00E3o em Red"
+  default_prompt: "Use $digital-acao-de-indenizacao-por-calunia-difamacao-4f4e96f2 para preparar A\u00E7\u00E3o de Indeniza\u00E7\u00E3o por Cal\u00FAnia/Difama\u00E7\u00E3o em Redes Sociais com os dados do caso."

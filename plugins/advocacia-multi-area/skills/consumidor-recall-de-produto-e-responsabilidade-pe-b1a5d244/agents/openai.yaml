@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recall de Produto e Responsabilidade pelo Fato do Produto"
+  short_description: "Skill jur\u00EDdica: Recall de Produto e Responsabilidade pelo Fato d"
+  default_prompt: "Use $consumidor-recall-de-produto-e-responsabilidade-pe-b1a5d244 para preparar Recall de Produto e Responsabilidade pelo Fato do Produto com os dados do caso."

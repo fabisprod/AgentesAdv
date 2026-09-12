@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inquirição de Testemunhas na AIJ (arts. 212, 214, 229–230 do CPP)"
+  short_description: "Skill jurídica: Inquirição de Testemunhas na AIJ (arts. 212, 214"
+  default_prompt: "Use $audiencia-inquiricao-testemunhas para preparar Inquirição de Testemunhas na AIJ (arts. 212, 214, 229–230 do CPP) com os dados do caso."

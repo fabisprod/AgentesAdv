@@ -1,0 +1,4 @@
+interface:
+  display_name: "Representação e Requerimento de Cautelares (polo acusatório)"
+  short_description: "Skill jurídica: Representação e Requerimento de Cautelares (polo"
+  default_prompt: "Use $representacao-cautelares-mp para preparar Representação e Requerimento de Cautelares (polo acusatório) com os dados do caso."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resposta a Titular de Dados"
+  short_description: "Skill jur\u00EDdica: Resposta a Titular de Dados"
+  default_prompt: "Use $digital-resposta-a-titular-de-dados para preparar Resposta a Titular de Dados com os dados do caso."

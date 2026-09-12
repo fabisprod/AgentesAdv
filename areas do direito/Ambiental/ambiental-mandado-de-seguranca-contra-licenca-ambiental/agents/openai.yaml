@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandado de Seguran\u00E7a contra Licen\u00E7a Ambiental"
+  short_description: "Skill jur\u00EDdica: Mandado de Seguran\u00E7a contra Licen\u00E7a Ambiental"
+  default_prompt: "Use $ambiental-mandado-de-seguranca-contra-licenca-ambiental para preparar Mandado de Seguran\u00E7a contra Licen\u00E7a Ambiental com os dados do caso."

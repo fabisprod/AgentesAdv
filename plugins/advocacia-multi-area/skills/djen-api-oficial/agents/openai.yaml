@@ -1,0 +1,4 @@
+interface:
+  display_name: "DJEN — API Oficial do CNJ (Comunica PJe)"
+  short_description: "Skill jurídica: DJEN — API Oficial do CNJ (Comunica PJe)"
+  default_prompt: "Use $djen-api-oficial para preparar DJEN — API Oficial do CNJ (Comunica PJe) com os dados do caso."

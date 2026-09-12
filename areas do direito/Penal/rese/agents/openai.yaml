@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurso em Sentido Estrito (RESE / RSE)"
+  short_description: "Skill jurídica: Recurso em Sentido Estrito (RESE / RSE)"
+  default_prompt: "Use $recurso-em-sentido-estrito para preparar Recurso em Sentido Estrito (RESE / RSE) com os dados do caso."
